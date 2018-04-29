@@ -1,3 +1,5 @@
+<%= favicon_tag 'images/favicon.ico' %>
+
 # Obsolete Media Resource Guide
 
 Link to Pages:
