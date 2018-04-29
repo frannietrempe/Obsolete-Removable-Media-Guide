@@ -1,9 +1,9 @@
 ### Basic Preservation Workflow
 What format(s) do you have in your collection?
-- <a href="#optical">I have round discs!</a>
-- I have cartridges!
-- I have something else entirely!
-- I don't know what I have!
+- <a href="#optical">I have round discs</a>
+- I have cartridges
+- I have something else
+- I don't know what I have
   
 If you want to obtain the material on this media yourself, you will need a few components.
 
