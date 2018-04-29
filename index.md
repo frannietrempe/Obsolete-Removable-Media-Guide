@@ -1,5 +1,5 @@
 <head>
-      <link rel="shortcut icon" type="image/png" href="https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/favicon.png?raw=true">
+      <link rel="shortcut icon" type="image/png" href="favicon.png">
 </head>  
 
 # Obsolete Media Resource Guide
