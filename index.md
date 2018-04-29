@@ -11,7 +11,7 @@ This is a markdown test
 I'm not sure why that happened.
 # I would think this would make a header.
 So why did those dashes make bigger text?
-_This shoudl be in italics_  
+_This should be in italics_  
 **And this should be bold**
 and this won't be on the next liine unless I do  
 this
