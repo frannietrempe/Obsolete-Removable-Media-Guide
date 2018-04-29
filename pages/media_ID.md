@@ -1,3 +1,13 @@
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+</head>
+
 <hr size="10">
 
 | [ Home ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide) | [ Media ID ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/media_ID.html) | [ Operating Systems ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/operating_systems.html) | [ Emulators ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/emulators.html) | [ Resources ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/resources.html) |
