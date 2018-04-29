@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-
 # Obsolete Media Resource Guide
 
 Link to Pages:
