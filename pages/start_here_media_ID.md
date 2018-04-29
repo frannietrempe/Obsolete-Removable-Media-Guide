@@ -17,7 +17,7 @@ If you want to obtain the material on this media yourself, you will need a few c
 If you are unsure what formats you currently possess, use the images below to help identify your objects.
 <a name="optical"></a>
 #### Optical disc media
-![floppy disk](images/resized/5.25inch_floppy.jpg)
+![floppy disk](https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/images/resized/5.25inch_floppy.jpg?raw=true)
 #### Cartridge-based media
 
 ### Finally...
