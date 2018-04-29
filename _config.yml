@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Obsolete Removable Media Guide]
 description: [Resource for accessing files from obsolete removable media]
-logo: [:floppy_disk:]
+logo: [https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/images/5.25inch_floppy.jpg]
+markdown: kramdown
