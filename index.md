@@ -1,6 +1,6 @@
 <head>
       <link rel="shortcut icon" type="image/png" 
-      href="{{ "./favicon.png"  | absolute_url }}">
+      href="{{ "favicon.png"  | absolute_url }}">
 </head>  
 
 # Obsolete Media Resource Guide
