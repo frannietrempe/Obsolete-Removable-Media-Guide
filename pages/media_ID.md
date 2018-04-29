@@ -1,6 +1,6 @@
 <hr size="10">
 
-| [ Home ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/) | [ Media ID ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/media_ID.html) | [ Operating Systems ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/operating_systems.html) | [ Emulators ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/emulators).html | [ Resources ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/resources.html) |
+| [ Home ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide.html) | [ Media ID ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/media_ID.html) | [ Operating Systems ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/operating_systems.html) | [ Emulators ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/emulators.html) | [ Resources ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/resources.html) |
 <hr size="10">
 
 ## Basic Preservation Workflow
