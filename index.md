@@ -1,6 +1,5 @@
 <head>
-      <link rel="shortcut icon" type="image/png" 
-      href="{{ "favicon.png"  | absolute_url }}">
+      <link rel="shortcut icon" type="image/png" href="https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/favicon.png?raw=true">
 </head>  
 
 # Obsolete Media Resource Guide
