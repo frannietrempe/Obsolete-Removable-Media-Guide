@@ -18,7 +18,7 @@ this
 
 ### It would be nice to be able to make it write text on black - I need to look into that
 
-[Let's make a link](www.google.com)  
+[Let's make a link](https://www.google.com/)  
 ![and insert an image](https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/images/BearInATree.png)
 
 ---
