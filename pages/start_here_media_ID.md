@@ -1,3 +1,10 @@
+---
+layout: page
+title: Start-Here-Media-ID
+tagline: Basic Preservation Workflow and Media/Hardware Identification
+description: content
+---
+
 ### Basic Preservation Workflow
 What format(s) do you have in your collection?
 - <a href="#optical">I have round discs</a>
