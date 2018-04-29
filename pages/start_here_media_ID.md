@@ -17,7 +17,10 @@ If you want to obtain the material on this media yourself, you will need a few c
 If you are unsure what formats you currently possess, use the images below to help identify your objects.
 <a name="optical"></a>
 #### Optical disc media
-#### Catridge-based media
+![floppy disk](Obsolete-Removable-Media-Guide/images/resized/5.25inch_floppy.jpg)
+#### Cartridge-based media
 
 ### Finally...
 If you decide against building a workstation yourself or only have a few objects from which to recover data, consider sending your media out to a trusted data recovery vendor.
+
+
