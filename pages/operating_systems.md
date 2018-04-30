@@ -4,3 +4,6 @@
 <hr size="10">
 
 Information about operating systems
+
+
+![Mac OS 9](https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/images/resized/Mac_OS9_Startup.jpg?raw=true)
