@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 <hr size="10">
 
