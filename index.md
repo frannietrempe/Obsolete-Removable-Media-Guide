@@ -47,5 +47,4 @@ This resource was created by Becca Bender and Frannie Trempe in 2018 as a part o
 Special thanks to Ethan Gates, Nicole Martin, and Amy Brost for their invaluable assistance.
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).   
-<img src="https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/images/resized/by-sa.png?raw=true">  
-<p style "text-align:center;" alt="cc-by-sa" style="width: 150px;"/></p>
+<p style img src="https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/images/resized/by-sa.png?raw=true"  text-align:center;" alt="cc-by-sa" style="width: 150px;"/></p>
