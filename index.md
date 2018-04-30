@@ -24,8 +24,6 @@ File systems dictate how data is organized and structured on a drive, and differ
 
 **Note**: Unfortunately, even if you do have a functioning drive and proper connections, obtaining data from an obsolete format isn't a guarantee. Disks from years ago may suffer from any number of problems, including bit rot, loss of magnetic fields, failed circuitry, or other physical damage.
 
-<p style="text-align:center;"><img src="images/resized/8inch_floppy.jpg" alt="8-inch" style="width: 100px;"/></p>
-
 ## What this guide will do:
 - Help you identify your media using images and descriptions
 - Provide an overview of current emulation setups and migration tactics
