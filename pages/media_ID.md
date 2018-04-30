@@ -1,6 +1,3 @@
-<head>
-<link rel="shortcut icon" type="image/png" href="https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/favicon.png">
-</head>
 
 <hr size="10">
 
