@@ -4,15 +4,6 @@
 | [ Home ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide) | [ Media ID ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/media_ID.html) | [ Operating Systems ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/operating_systems.html) | [ Emulators ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/emulators.html) | [ Resources ](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/resources.html) |
 <hr size="10">
 
-## Basic Preservation Workflow
-If you want to obtain the material on this media yourself, you will need a few components.
-
-- Disk drive specific to your format(s)
-- Cable that connects your disk drive to your computer
-- Adapters to solve any cable connection issues
-- An emulation setup to mimic the computing environment native to your format
-
-
 ## Media and Hardware Identification Guide
 
 If you are unsure what formats you currently possess, use the images below to help identify your objects.  
