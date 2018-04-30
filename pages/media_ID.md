@@ -26,13 +26,19 @@ Blu-Ray disc
 
 <a name="floppy"></a>
 #### Floppy disks  
+| Image        | Format Name           | Description  | Preservation Resources  |
+| :------------- |:-------------|:-----|:-------------|:--------------|
+| <a href="https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/images/full-sized/8inch_floppy.jpg?raw=true"><img src="https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/images/full-sized/8inch_floppy.jpg?raw=true" style="width:100px;" title="https://en.wikipedia.org/wiki/Floppy_disk#/media/File:8-inch_floppy_disk_-_IZOT,_Bulgaria.jpg" alt="8-inch floppy"></a>| 8-inch floppy disk | ca. 1970s; IBM-designed device that would eventually hold up to 1.2MB. Used primarily in corporate contexts. | [An 8'' Floppy Disk Challenge](An 8″ Floppy Disk Challenge) |
+|     | 5.25-inch floppy disk      |   text | links |
+|     | 5.25-inch floppy disk      |   text | links |
+|     | 5.25-inch floppy disk      |   text | links |
+
 8-inch floppy disk  
 5.25-inch floppy disk  
 3.5-inch floppy disk  
 2-inch video floppy disk  
 Floptical disk
 
-![floppy disk](https://github.com/frannietrempe/Obsolete-Removable-Media-Guide/blob/master/images/resized/5.25inch_floppy.jpg?raw=true)
 <a name="sony"></a>
 #### Proprietary Sony-specific Formats  
 Magneto-Optical disk  
