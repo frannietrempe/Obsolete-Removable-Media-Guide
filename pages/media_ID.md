@@ -27,7 +27,7 @@ Blu-Ray disc
 <a name="floppy"></a>
 #### Floppy disks  
 8-inch floppy disk  
-<p style="text-align:center;"><img src="images/resized/8-inch floppy" alt="8-inch floppy disk" style="width: 100px;"/></p>
+<p style="text-align:center;"><img src="images/resized/8inch_floppy.jpg" alt="8-inch floppy disk" style="width: 100px;"/></p>
 5.25-inch floppy disk  
 3.5-inch floppy disk  
 2-inch video floppy disk  
