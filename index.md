@@ -32,7 +32,7 @@ File systems dictate how data is organized and structured on a drive, and differ
 - Collect and organize documentation from the archival community about preserving removable media
 
 ## What this guide _will not do_:
-- Give  detailed instructions for every format or every emulation build.
+- Give  detailed instructions for preserving every format or using every emulation build.
 - Explain the history of various removable media formats
 - Address preservation of data tape
 
