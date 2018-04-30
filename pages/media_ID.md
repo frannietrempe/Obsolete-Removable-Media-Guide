@@ -7,6 +7,7 @@
 ## Media and Hardware Identification Guide
 
 If you are unsure what formats you currently possess, use the images below to help identify your objects.  
+
 _Note: This list is not exhaustive! Check out the [Museum of Obsolete Media](http://www.obsoletemedia.org/) for more formats than are listed here._  
 
 ### What format(s) do you have in your collection?
