@@ -45,7 +45,7 @@ Blu-Ray disc
     <td><a href="images/full-sized/5.25inch_floppy.jpg"><img src="images/full-sized/5.25inch_floppy.jpg" style="width:100px;" title="https://www.fileformat.info/media/5.25-floppy/index.htm"></a></td>
     <td>5.25" floppy disk</td> 
     <td>ca. late 1970s; IBM-designed device that would eventually hold up to 1.2MB. Used primarily in corporate contexts.</td>
-    <td>Consider<a href="https://docs.google.com/document/d/1LViSnYpvr2jf1TrCh6ELuL-FWo14ICw-WZeb8j5GGpU/edit"target="_blank">Kryoflux</a>; <a href="http://www.esocop.org/docs/HowToDiagnoseAndRepairIBMFloppy5.pdf"target="_blank">How To Diagnose and Repair an IBM floppy drive</a></td>
+    <td>Consider <a href="https://docs.google.com/document/d/1LViSnYpvr2jf1TrCh6ELuL-FWo14ICw-WZeb8j5GGpU/edit"target="_blank">Kryoflux</a>; <a href="http://www.esocop.org/docs/HowToDiagnoseAndRepairIBMFloppy5.pdf"target="_blank">How To Diagnose and Repair an IBM floppy drive</a></td>
   </tr>
 </table>
 
