@@ -28,7 +28,8 @@ Blu-Ray disc
 
 <a name="floppy"></a>
 #### Floppy disks  
-<table><table style="width:100%">
+<table>
+  <table style="width:100%">
   <tr>
     <th>Image</th>
     <th>Format Name</th> 
@@ -40,11 +41,6 @@ Blu-Ray disc
     <td>8-inch floppy disk</td> 
     <td>ca. 1970s; IBM-designed device that would eventually hold up to 1.2MB. Used primarily in corporate contexts.</td>
     <td><a href="http://openpreservation.org/blog/2016/09/01/an-8-floppy-disk-challenge/">An 8" Floppy Disk Challenge</a>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
 </table>  
 
 8-inch floppy disk
@@ -82,5 +78,3 @@ USB Sticks/Portable Flash Drives/Thumb drives
 
 ## Finally...
 If you decide against building a workstation yourself or only have a few objects from which to recover data, consider sending your media out to a trusted data recovery vendor.
-
-
