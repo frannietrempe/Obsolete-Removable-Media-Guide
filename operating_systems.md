@@ -14,7 +14,7 @@ In order to render files that you have extracted (via disk imaging or through lo
 
 **Note:** It's possible that an old file will be _viewable_ on a modern system, but will not be a faithful representation of how it rendered on the original operating system for which it was created.    
 
-### If you need to use [emulation](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/emulators.html) to view your files, you will need to know the compatible operating system(s).  
+### If you need to use [emulation](Obsolete-Removable-Media-Guide/emulators.md) to view your files, you will need to know the compatible operating system(s).  
 Look for documentation that lists the computing requirements. For example, a commercial CD-ROM would have come with a booklet or case specifying the operating system(s) on which it will run, or the disc itself could have some indication of requirements. Of course you may not still have such documentation in your possession, or more likely, the removable media was **not** commercially generated and **no** documentation ever existed.  
 
 If this is the case, you will need to make  educated guesses as to when the removable media object and its files were created, and under what circumstances (e.g. a graphic designer is more likely to have been working on a Mac than someone in finance). This process may take some trial and error.
