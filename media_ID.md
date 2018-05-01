@@ -31,11 +31,23 @@ Typically, -R and -RW versions are much more fragile than their commercial read-
   <tr>
     <td><a href="images/full-sized/cdrw.jpg"><img src="images/full-sized/cdrw.jpg" style="width:100px;" title="https://www.amazon.com/Verbatim-Branded-Surface-25-Disc-95169/dp/B0016025UG" alt="CD-RW"></a></td>
     <td>Compact Disc</td> 
-    <td>The ubiquitous optical format. Numerous varieties, including writeable formats CD-R and CD-RW. A standard CD was introduced for the playback of audio formats.</td>
-    <td><a href="http://www.naa.gov.au/information-management/managing-information-and-records/preserving/CDs-and-DVDs.aspx" target="_blank">NAA</a>, <a href="https://www.loc.gov/preservation/scientists/projects/cd-r_dvd-r_rw_longevity.html" target="_blank">LoC</a>,  <a href="https://pdfs.semanticscholar.org/6d1b/347b94e2d132a5830fb688c37a4a93f3c8a2.pdf" target="_blank">"Characterization of CD-ROMs for Emulation-based Access"</a></td>  
+    <td>ca. 1980s-present; The ubiquitous optical format. Numerous varieties, including writeable formats CD-R and CD-RW. A standard CD was introduced for the playback of audio formats.</td>
+    <td><a href="http://www.naa.gov.au/information-management/managing-information-and-records/preserving/CDs-and-DVDs.aspx" target="_blank">NAA</a>, <a href="https://www.loc.gov/preservation/scientists/projects/cd-r_dvd-r_rw_longevity.html" target="_blank">LoC</a>, <a href="https://blogs.loc.gov/thesignal/2014/02/getting-public-radios-legacy-off-ageing-rewritable-cds-an-interview-with-wnycs-john-passmore/" target="_blank">LoC/WNYC</a>, <a href="http://campuspress.yale.edu/borndigital/2016/12/20/to-image-or-copy-the-compact-disc-digital-audio-dilemma/" target="_blank">Yale</a></td>  
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/cd_rom.jpg"><img src="images/full-sized/cd_rom.jpg" style="width:100px;" title="https://ia800506.us.archive.org/18/items/Microsoft_Encarta_95_Microsoft_Home_1994/00cover.jpg"></a></td>
+    <td>CD-ROM</td> 
+    <td>ca. 1980s-1990s; Optical format for data storage, most commonly used for software--programs, video games, artworks. May require more involved a preservation effort than a standard audio CD.</td>
+    <td><a href="https://pdfs.semanticscholar.org/6d1b/347b94e2d132a5830fb688c37a4a93f3c8a2.pdf" target="_blank">"Characterization of CD-ROMs for Emulation-based Access"</a>, <a href="https://www.loc.gov/preservation/scientists/projects/cd_longevity.html" target="_blank">"LoC"</a>, <a href="http://www.ncdd.nl/wp-content/uploads/2015/11/201611_DE_Houdbaar_Final_report_CD-ROM_Archiving_DEF.pdf" target="_blank">"NCDD"</a></td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/dvd_rw.jpg"><img src="images/full-sized/dvd_rw.jpg" style="width:100px;" title="https://www.ebay.com/p/Sony-16X-Logo-DVD-R-7GB-Blank-Disc-Media-4/2254529424"></a></td>
+    <td>DVD</td> 
+    <td>ca. late 1990s-present; optical media for video playback. Numerous varieties, including writable DVD-R and DVD-RW, DVD-ROM, and DVD-RAM</td>
+    <td><a href="https://siarchives.si.edu/blog/and-action-ins-and-outs-dvd-video-preservation" target="_blank">Smithsonian Institution Archives</a>, <a href="https://www.nyu.edu/tisch/preservation/program/student_work/2016fall/16f_2920_Oliveira_a2.pdf" target="_blank">"MIAP paper by Caroline Olivera, 2016"</a>, <a href="https://www.avpreserve.com/wp-content/uploads/2014/04/OpticalMediaPreservation.pdf" target="_blank">"AVPS"</a></td>
   </tr>
 </table>
-Compact Disc (CD, CD-R, CD-RW, CD-ROM)  
+
 Digital Video Disc (DVD, DVD-R, DVD-RW, DVD-ROM, DVD-RAM)  
 Blu-Ray disc   
 
