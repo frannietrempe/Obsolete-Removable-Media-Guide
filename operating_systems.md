@@ -55,7 +55,7 @@ If this is the case, you will need to make  educated guesses as to when the remo
   * OS X 10.2: Jaguar - released in 2002
   * OS X 10.3 Panther - released in 2003
   * OS X 10.4 Tiger - released in 2005
-  * OS X 10.4.4 Tiger - released in 2006 (for the first Intel-based Mac)
+  * OS X 10.4.4 Tiger - released in 2006 (first Intel-based Mac)
   * OS X 10.5 Leopard - released in 2007
   * OS X 10.6 Snow Leopard - released in 2009
   * OS X 10.7 Lion - released in 2011
