@@ -47,8 +47,7 @@ If this is the case, you will need to make  educated guesses as to when the remo
   * System Software 6 – released in 1988
   * System 7 / Mac OS 7.6 – released in 1991
   * Mac OS 8 – released in 1997
-  * [Mac OS 9](https://en.wikipedia.org/wiki/Mac_OS_9) – released in 1999 (final major version)  
-  
+  * [Mac OS 9](https://en.wikipedia.org/wiki/Mac_OS_9) – released in 1999 (final major version)    
 * **Mac OSX** (2000-2016) / **MacOS** (2016- current)**
   * OS X 10 Public Beta: Kodiak - released in 2000
   * OS X 10.0: Cheetah - released in 2001
