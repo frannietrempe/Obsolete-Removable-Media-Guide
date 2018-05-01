@@ -7,7 +7,8 @@
 Emulation is essentially a way of tricking a computer into running an [operating system](operating_systems.html) that it was not "meant" to run. This could mean running Mac OS 7 on a 2016 iMac that natively runs MacOS Sierra, running a Linux distribution on a Dell laptop natively running Windows 10, running Windows 95 on a modern day Mac or PC, etc.  
 
 The idea here is that if you're trying to render old files that you retrieved from obsolete removable media (e.g. photos, documents, programs, videos, etc):  
-&nbsp; &nbsp; &nbsp; &nbsp; **a)** they may not render (or render correctly) on your modern computing system, and if that's &nbsp; &nbsp; &nbsp; &nbsp; the case then  
+&nbsp; &nbsp; &nbsp; &nbsp; **a)** they may not render (or render correctly) on your modern 
+&nbsp; &nbsp; &nbsp; &nbsp; computing system, and if that's the case then  
 &nbsp; &nbsp; &nbsp; &nbsp; **b)** you probably don't have access to the legacy computing 
 &nbsp; &nbsp; &nbsp; &nbsp; environment (hardware and operating system)   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;for which the files were intended.
