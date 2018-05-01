@@ -37,12 +37,12 @@ Blu-Ray disc
     <th>Preservation Resources</th>
   </tr>
   <tr>
-    <td><a href="images/full-sized/8inch_floppy.jpg"><img src="images/full-sized/8inch_floppy.jpg" style="width:100px;" title="https://en.wikipedia.org/wiki/Floppy_disk#/media/File:8-inch_floppy_disk_-_IZOT,_Bulgaria.jpg" alt="8-inch floppy"></a></tr>
+    <td><a href="images/full-sized/8inch_floppy.jpg"><img src="images/full-sized/8inch_floppy.jpg" style="width:100px;" title="https://en.wikipedia.org/wiki/Floppy_disk#/media/File:8-inch_floppy_disk_-_IZOT,_Bulgaria.jpg" alt="8-inch floppy"></a>   </tr>
     </td>
     <td>8-inch floppy disk</td> 
     <td>ca. 1970s; IBM-designed device that would eventually hold up to 1.2MB. Used primarily in corporate contexts.</td>
     <td><a href="http://openpreservation.org/blog/2016/09/01/an-8-floppy-disk-challenge/">An 8" Floppy Disk Challenge</a></td>
-  </table>
+ </table>
 
 8-inch floppy disk
 5.25-inch floppy disk  
