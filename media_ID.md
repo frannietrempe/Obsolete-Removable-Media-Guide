@@ -46,10 +46,13 @@ Typically, -R and -RW versions are much more fragile than their commercial read-
     <td>ca. late 1990s-present; optical media for video playback. Numerous varieties, including writable DVD-R and DVD-RW, DVD-ROM, and DVD-RAM</td>
     <td><a href="https://siarchives.si.edu/blog/and-action-ins-and-outs-dvd-video-preservation" target="_blank">Smithsonian Institution Archives</a>, <a href="https://www.nyu.edu/tisch/preservation/program/student_work/2016fall/16f_2920_Oliveira_a2.pdf" target="_blank">"MIAP paper by Caroline Olivera, 2016"</a>, <a href="https://www.avpreserve.com/wp-content/uploads/2014/04/OpticalMediaPreservation.pdf" target="_blank">"AVPS"</a></td>
   </tr>
-</table>
-
-Digital Video Disc (DVD, DVD-R, DVD-RW, DVD-ROM, DVD-RAM)  
-Blu-Ray disc   
+  <tr>
+    <td><a href="images/full-sized/blu_ray.jpg"><img src="images/full-sized/blu_ray.jpg" style="width:100px;" title="http://images.verbatim.com/includes/binary_details.php?show=1&id=91432"></a></td>
+    <td>Blu-Ray</td> 
+    <td>ca. 2000s-present; optical media for high-definition video playback; little archival documentation about Blu-Ray preservation.</td>
+    <td><a href="https://en.wikipedia.org/wiki/Blu-ray" target="_blank">Wikipedia</a></td>
+  </tr>
+</table>  
 
 <a name="floppy"></a>
 ### Floppy disks  
