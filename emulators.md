@@ -23,7 +23,7 @@ As you might imagine, there are different emulating applications for different o
 
 * #### DOS
 
-[something about browser-based emulators?  
+[something about browser-based emulators?]
 [something about Bit Curator?]
 
 ## Putting together an emulator:
