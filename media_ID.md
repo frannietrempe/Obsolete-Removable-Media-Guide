@@ -45,8 +45,14 @@ Consider using <a href="https://www.kryoflux.com/" target="_blank">Kryoflux</a> 
   <tr>
     <td><a href="images/full-sized/5.25inch_floppy.jpg"><img src="images/full-sized/5.25inch_floppy.jpg" style="width:100px;" title="https://www.fileformat.info/media/5.25-floppy/index.htm"></a></td>
     <td>5.25" floppy disk</td> 
-    <td>ca. late 1970s-1980s; flexible, thin, square magnetic disk. Single or double-sided, with capacities up to 1.2MB</td>
+    <td>ca. late 1970s-1980s; flexible, thin, square disk. Magnetic media, single or double-sided, with capacities up to 1.2MB</td>
     <td><a href="http://www.esocop.org/docs/HowToDiagnoseAndRepairIBMFloppy5.pdf" target="_blank">How To Diagnose and Repair an IBM floppy drive</a></td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/3.5inch_floppy.jpg"><img src="images/full-sized/3.5inch_floppy.jpg" style="width:100px;" title="https://www.fileformat.info/media/3.5-floppy/index.htm"></a></td>
+    <td>3.5" floppy disk</td> 
+    <td>ca. 1990s; Extremely common in personal and corporate computing. Rigid plastic disks, often with a write protection tab (engage this for archival purposes!). </td>
+    <td><a href="https://practicaltechnologyforarchives.org/issue2_waugh/" target="_blank">"A Dogged Pursuit: Capturing Forensic Images of 3.5” Floppy Disks"</a></td>
   </tr>
 </table>
 
