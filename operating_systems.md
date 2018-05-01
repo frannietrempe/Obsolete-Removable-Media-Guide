@@ -22,7 +22,7 @@ If this is the case, you will need to make  educated guesses as to when the remo
 ## Here is a list of operating systems and their release dates to get you started.
 
 #### Windows (PC)*
-* [Windows 1.0](https://en.wikipedia.org/wiki/Windows_1.0){:target="_blank"} – released in 1985
+* <a href="https://en.wikipedia.org/wiki/Windows_1.0" target="_blank">Windows 1.0</a> – released in 1985
 * Windows 3.x – released in 1990, 1992
 * Windows NT 3.1 – released in 1993
 * Windows NT 3.5 – released in 1994
@@ -65,7 +65,6 @@ If this is the case, you will need to make  educated guesses as to when the remo
   * OS X 10.11: El Capitan - released in 2015
   * macOS 10.12: Sierra - released in 2016
   * [macOS 10.13: High Sierra](https://en.wikipedia.org/wiki/MacOS_High_Sierra) - released in 2017
-
 
 
 #### DOS (PC)
