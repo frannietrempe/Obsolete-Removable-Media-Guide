@@ -32,7 +32,7 @@ Typically, -R and -RW versions are much more fragile than their commercial read-
     <td><a href="images/full-sized/cdrw.jpg"><img src="images/full-sized/cdrw.jpg" style="width:100px;" title="https://www.amazon.com/Verbatim-Branded-Surface-25-Disc-95169/dp/B0016025UG" alt="CD-RW"></a></td>
     <td>Compact Disc</td> 
     <td>The ubiquitous optical format. Numerous varieties, including writeable formats CD-R and CD-RW. A standard CD was introduced for the playback of audio formats.</td>
-    <td><a href="http://www.naa.gov.au/information-management/managing-information-and-records/preserving/CDs-and-DVDs.aspx" target="_blank">NAA</a></td>, <a href="https://www.loc.gov/preservation/scientists/projects/cd-r_dvd-r_rw_longevity.html" target="_blank">LoC</a></td>,  <a href="https://pdfs.semanticscholar.org/6d1b/347b94e2d132a5830fb688c37a4a93f3c8a2.pdf" target="_blank">"Characterization of CD-ROMs for Emulation-based Access"</a></td>,  
+    <td><a href="http://www.naa.gov.au/information-management/managing-information-and-records/preserving/CDs-and-DVDs.aspx" target="_blank">NAA</a>, <a href="https://www.loc.gov/preservation/scientists/projects/cd-r_dvd-r_rw_longevity.html" target="_blank">LoC</a>,  <a href="https://pdfs.semanticscholar.org/6d1b/347b94e2d132a5830fb688c37a4a93f3c8a2.pdf" target="_blank">"Characterization of CD-ROMs for Emulation-based Access"</a></td>  
   </tr>
 </table>
 Compact Disc (CD, CD-R, CD-RW, CD-ROM)  
