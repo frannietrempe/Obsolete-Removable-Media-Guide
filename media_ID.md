@@ -28,7 +28,7 @@ Blu-Ray disc
 
 <a name="floppy"></a>
 #### Floppy disks  
-<table style="width:100%">
+<table><table style="width:100%">
   <tr>
     <th>Image</th>
     <th>Format Name</th> 
