@@ -2,6 +2,7 @@
 
 | [ Home ](index.html) | [ Media ID Guide ](media_ID.html) | [ Operating Systems ](operating_systems.html) | [ Emulation ](emulators.html) | [ Resources ](resources.html) |
 <hr size="10">
+
 # What is an operating system?
 An operating system is software that communicates with a computer's hardware and allows the computer to perform tasks via other software (programs).
 
