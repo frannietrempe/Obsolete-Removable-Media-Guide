@@ -6,4 +6,4 @@
 Information about operating systems
 
 
-![Mac OS 9](images/full-sized/Mac_OS9_Startup.jpg?raw=true)
+![Mac OS 9](images/full-sized/Mac_OS9_Startup.jpg)
