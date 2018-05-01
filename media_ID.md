@@ -28,29 +28,29 @@ Blu-Ray disc
 
 <a name="floppy"></a>
 #### Floppy disks  
+Consider using <a href="https://www.kryoflux.com/" target="_blank">Kryoflux</a> to obtain a disk image of your floppy disk if you do not know the exact file system of your media. Check out <a href="https://docs.google.com/document/d/1LViSnYpvr2jf1TrCh6ELuL-FWo14ICw-WZeb8j5GGpU/edit" target="_blank">The Archivist's Guide to Kryoflux</a> for further details.
 <table style="width:100%">
   <tr>
     <th>Image</th>
     <th>Format Name</th> 
     <th>Description</th>
-    <th>Preservation</th>
+    <th>Preservation Resources</th>
   </tr>
   <tr>
     <td><a href="images/full-sized/8inch_floppy.jpg"><img src="images/full-sized/8inch_floppy.jpg" style="width:100px;" title="https://en.wikipedia.org/wiki/Floppy_disk#/media/File:8-inch_floppy_disk_-_IZOT,_Bulgaria.jpg" alt="8-inch floppy"></a></td>
     <td>8" floppy disk</td> 
-    <td>ca. 1970s; IBM-designed device that would eventually hold up to 1.2MB. Used primarily in corporate contexts.</td>
+    <td>ca. 1970s; IBM-designed device, earliest version had a capacity of 80KB. Used primarily in corporate contexts.</td>
     <td><a href="http://openpreservation.org/blog/2016/09/01/an-8-floppy-disk-challenge/" target="_blank">An 8" Floppy Disk Challenge</a></td>
   </tr>
   <tr>
     <td><a href="images/full-sized/5.25inch_floppy.jpg"><img src="images/full-sized/5.25inch_floppy.jpg" style="width:100px;" title="https://www.fileformat.info/media/5.25-floppy/index.htm"></a></td>
     <td>5.25" floppy disk</td> 
-    <td>ca. late 1970s; IBM-designed device that would eventually hold up to 1.2MB. Used primarily in corporate contexts.</td>
-    <td>Consider <a href="https://docs.google.com/document/d/1LViSnYpvr2jf1TrCh6ELuL-FWo14ICw-WZeb8j5GGpU/edit" target="_blank">Kryoflux</a> <a href="http://www.esocop.org/docs/HowToDiagnoseAndRepairIBMFloppy5.pdf" target="_blank">How To Diagnose and Repair an IBM floppy drive</a></td>
+    <td>ca. late 1970s-1980s; flexible, thin, square magnetic disk. Single or double-sided, with capacities up to 1.2MB</td>
+    <td><a href="http://www.esocop.org/docs/HowToDiagnoseAndRepairIBMFloppy5.pdf" target="_blank">How To Diagnose and Repair an IBM floppy drive</a></td>
   </tr>
 </table>
 
-8-inch floppy disk
-5.25-inch floppy disk  
+
 3.5-inch floppy disk  
 2-inch video floppy disk  
 Floptical disk
