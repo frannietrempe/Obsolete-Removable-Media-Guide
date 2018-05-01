@@ -40,13 +40,13 @@ Blu-Ray disc
     <td>8-inch floppy disk</td> 
     <td>ca. 1970s; IBM-designed device that would eventually hold up to 1.2MB. Used primarily in corporate contexts.</td>
     <td><a href="http://openpreservation.org/blog/2016/09/01/an-8-floppy-disk-challenge/">An 8" Floppy Disk Challenge</a>
-  </tr>
   <tr>
     <td>Eve</td>
     <td>Jackson</td> 
     <td>94</td>
   </tr>
-</table>
+</table>  
+
 8-inch floppy disk
 5.25-inch floppy disk  
 3.5-inch floppy disk  
