@@ -13,7 +13,7 @@ In order to render files that you have extracted (via disk imaging or through lo
 
 **Note:** It's possible that an old file will be _viewable_ on a modern system, but will not be a faithful representation of how it rendered on the original operating system for which it was created.    
 
-##### If you need to use [emulation](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/emulators.html) to view your files, you will need to know the compatible operating system(s).  
+### If you need to use [emulation](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/emulators.html) to view your files, you will need to know the compatible operating system(s).  
 Look for documentation that lists the computing requirements. For example, a commercial CD-ROM would have come with a booklet or case specifying the operating system(s) on which it will run, or the disc itself could have some indication of requirements. Of course you may not still have such documentation in your possession, or more likely, the removable media was **not** commercially generated and **no** documentation ever existed. If this is the case, you will need to make  educated guesses as to when you think the removable media object and its  files were created, and under what circumstances (e.g. a graphic designer is more likely to have been working on a Mac than someone in finance.) This process may take some trial and error.
 
 ## Here is a list of operating systems and their release dates to get you started.
@@ -46,22 +46,22 @@ Look for documentation that lists the computing requirements. For example, a com
   * Mac OS 8 – released in 1997
   * [Mac OS 9](https://en.wikipedia.org/wiki/Mac_OS_9) – released in 1999 (final major version)  
 * **Mac OSX** (2000-2016) / **MacOS** (2016- current)**
- * OS X 10 Public Beta: Kodiak - released in 2000
- * OS X 10.0: Cheetah - released in 2001
- * OS X 10.1: Puma - released in 2001
- * OS X 10.2: Jaguar - released in 2002
- * OS X 10.3 Panther - released in 2003
- * OS X 10.4 Tiger - released in 2005
- * OS X 10.4.4 Tiger - released in 2006 (for the first Intel-based Mac)
- * OS X 10.5 Leopard - released in 2007
- * OS X 10.6 Snow Leopard - released in 2009
- * OS X 10.7 Lion - released in 2011
- * OS X 10.8 Mountain Lion - released in 2012
- * OS X 10.9 Mavericks - released in 2013
- * OS X 10.10: Yosemite - released in 2014
- * OS X 10.11: El Capitan - released in 2015
- * macOS 10.12: Sierra - released in 2016
- * [macOS 10.13: High Sierra](https://en.wikipedia.org/wiki/MacOS_High_Sierra) - released in 2017
+  * OS X 10 Public Beta: Kodiak - released in 2000
+  * OS X 10.0: Cheetah - released in 2001
+  * OS X 10.1: Puma - released in 2001
+  * OS X 10.2: Jaguar - released in 2002
+  * OS X 10.3 Panther - released in 2003
+  * OS X 10.4 Tiger - released in 2005
+  * OS X 10.4.4 Tiger - released in 2006 (for the first Intel-based Mac)
+  * OS X 10.5 Leopard - released in 2007
+  * OS X 10.6 Snow Leopard - released in 2009
+  * OS X 10.7 Lion - released in 2011
+  * OS X 10.8 Mountain Lion - released in 2012
+  * OS X 10.9 Mavericks - released in 2013
+  * OS X 10.10: Yosemite - released in 2014
+  * OS X 10.11: El Capitan - released in 2015
+  * macOS 10.12: Sierra - released in 2016
+  * [macOS 10.13: High Sierra](https://en.wikipedia.org/wiki/MacOS_High_Sierra) - released in 2017
 
 
 
