@@ -19,15 +19,14 @@ _Note: This list is not exhaustive! Check out the [Museum of Obsolete Media](htt
 
 <a name="optical"></a>
 ### Optical disc media  
--R and -RW versions are typically more fragile than their commercial read-only counterparts.  
-
+-R and -RW versions are typically much more fragile than their commercial read-only counterparts.
 Compact Disc (CD, CD-R, CD-RW, CD-ROM)  
 Digital Video Disc (DVD, DVD-R, DVD-RW, DVD-ROM, DVD-RAM)  
 Blu-Ray disc   
 
 <a name="floppy"></a>
 ### Floppy disks  
-Refers to a variety of removable magnetic storage formats encased in a plastic diskette. Consider using <a href="https://www.kryoflux.com/" target="_blank">Kryoflux</a> to obtain a disk image of your floppy disk if you do not know the exact file system of your media. Check out <a href="https://docs.google.com/document/d/1LViSnYpvr2jf1TrCh6ELuL-FWo14ICw-WZeb8j5GGpU/edit" target="_blank">The Archivist's Guide to Kryoflux</a> for further details.
+Refers to a variety of removable magnetic storage formats encased in a plastic diskette. Consider using <a href="https://www.kryoflux.com/" target="_blank">Kryoflux</a> to obtain a disk image of your floppy disk if you do not know the exact file system of your media. Check out <a href="https://docs.google.com/document/d/1LViSnYpvr2jf1TrCh6ELuL-FWo14ICw-WZeb8j5GGpU/edit" target="_blank">The Archivist's Guide to Kryoflux</a> for further details. Depending on formats, you may need to [emulate](emulators.html) a specific [operating system](operating_systems.html) to read files on the disk.
 <table style="width:100%">
   <tr>
     <th>Image</th>
@@ -64,6 +63,12 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
     <td>Floptical</td> 
     <td>ca. 1990s; Looks like a regular 3.5" floppy disk but combines optical and magnetic technologies for data storage, up to 21MB.</td>
     <td><a href="https://www.nyu.edu/tisch/preservation/program/student.../04f_1805_taylor_a1.doc" target="_blank">MIAP paper by Irene Taylor, 2004</a></td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/2.8inch-Datadisk.png"><img src="images/full-sized/2.8inch-Datadisk.png" style="width:100px;" title="http://www.obsoletemedia.org/2-8-inch-datadisk/2-8-inch-datadisk-floppy-disk-front/"></a></td>
+    <td>2.8" DataDisk</td> 
+    <td>ca. late 1980s; Slightly smaller than 3.5" floppy, double-sided. Very little archival documentation; rare format. Drives difficult to locate, bit rot likely</td>
+    <td><a href="http://www.obsoletemedia.org/2-8-inch-datadisk/" target="_blank">Museum of Obsolete Media</a></td>
   </tr>
 </table>
 
