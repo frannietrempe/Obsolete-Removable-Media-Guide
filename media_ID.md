@@ -1,6 +1,3 @@
----
-layout: default
----
 <hr size="10">
 
 | [ Home ](index.html) | [ Media ID Guide ](media_ID.html) | [ Operating Systems ](operating_systems.html) | [ Emulation ](emulators.html) | [ Resources ](resources.html) |
@@ -22,6 +19,8 @@ _Note: This list is not exhaustive! Check out the [Museum of Obsolete Media](htt
 
 <a name="optical"></a>
 ### Optical disc media  
+-R and -RW versions are typically more fragile than their commercial read-only counterparts.  
+
 Compact Disc (CD, CD-R, CD-RW, CD-ROM)  
 Digital Video Disc (DVD, DVD-R, DVD-RW, DVD-ROM, DVD-RAM)  
 Blu-Ray disc   
@@ -58,13 +57,13 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
     <td><a href="images/full-sized/video-floppy.png"><img src="images/full-sized/video-floppy.png" style="width:100px;" title="http://www.obsoletemedia.org/2-inch-floppy-disk-video-floppy/"></a></td>
     <td>2" Video Floppy</td> 
     <td>ca. 1980s-early 1990s; Analog storage medium, could hold up to 25 still frames of composite NTSC or PAL video. Very little documentation from an archival perspective.</td>
-    <td><a href="https://en.wikipedia.org/wiki/Video_Floppy" target="_blank">"Wikipedia"</a></td>
+    <td><a href="https://en.wikipedia.org/wiki/Video_Floppy" target="_blank">Wikipedia</a></td>
   </tr>
   <tr>
     <td><a href="images/full-sized/floptical.jpg"><img src="images/full-sized/floptical.jpg" style="width:100px;" title="http://www.fileformat.info/media/floptical/index.dir"></a></td>
     <td>Floptical</td> 
     <td>ca. 1990s; Looks like a regular 3.5" floppy disk but combines optical and magnetic technologies for data storage, up to 21MB.</td>
-    <td><a href="https://www.nyu.edu/tisch/preservation/program/student.../04f_1805_taylor_a1.doc" target="_blank">"MIAP paper by Irene Taylor, 2004"</a></td>
+    <td><a href="https://www.nyu.edu/tisch/preservation/program/student.../04f_1805_taylor_a1.doc" target="_blank">MIAP paper by Irene Taylor, 2004</a></td>
   </tr>
 </table>
 
