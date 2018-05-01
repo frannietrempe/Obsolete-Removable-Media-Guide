@@ -8,7 +8,7 @@ layout: default
 
 # Media and Hardware Identification Guide
 
-If you are unsure what formats you currently possess, use the images below to help identify your objects.  
+If you are unsure what formats you currently possess, use the images below to help identify your objects. Hover over images for source URLs.  
 
 _Note: This list is not exhaustive! Check out the [Museum of Obsolete Media](http://www.obsoletemedia.org/) for more formats than are listed here._  
 
@@ -28,7 +28,7 @@ Blu-Ray disc
 
 <a name="floppy"></a>
 ### Floppy disks  
-Consider using <a href="https://www.kryoflux.com/" target="_blank">Kryoflux</a> to obtain a disk image of your floppy disk if you do not know the exact file system of your media. Check out <a href="https://docs.google.com/document/d/1LViSnYpvr2jf1TrCh6ELuL-FWo14ICw-WZeb8j5GGpU/edit" target="_blank">The Archivist's Guide to Kryoflux</a> for further details.
+Refers to a variety of removable magnetic storage formats encased in a plastic diskette. Consider using <a href="https://www.kryoflux.com/" target="_blank">Kryoflux</a> to obtain a disk image of your floppy disk if you do not know the exact file system of your media. Check out <a href="https://docs.google.com/document/d/1LViSnYpvr2jf1TrCh6ELuL-FWo14ICw-WZeb8j5GGpU/edit" target="_blank">The Archivist's Guide to Kryoflux</a> for further details.
 <table style="width:100%">
   <tr>
     <th>Image</th>
@@ -40,13 +40,13 @@ Consider using <a href="https://www.kryoflux.com/" target="_blank">Kryoflux</a> 
     <td><a href="images/full-sized/8inch_floppy.jpg"><img src="images/full-sized/8inch_floppy.jpg" style="width:100px;" title="https://en.wikipedia.org/wiki/Floppy_disk#/media/File:8-inch_floppy_disk_-_IZOT,_Bulgaria.jpg" alt="8-inch floppy"></a></td>
     <td>8" floppy disk</td> 
     <td>ca. 1970s; IBM-designed device, earliest version had a capacity of 80KB. Used primarily in corporate contexts.</td>
-    <td><a href="http://openpreservation.org/blog/2016/09/01/an-8-floppy-disk-challenge/" target="_blank">An 8" Floppy Disk Challenge</a></td>
+    <td><a href="http://openpreservation.org/blog/2016/09/01/an-8-floppy-disk-challenge/" target="_blank">"An 8" Floppy Disk Challenge"</a></td>
   </tr>
   <tr>
     <td><a href="images/full-sized/5.25inch_floppy.jpg"><img src="images/full-sized/5.25inch_floppy.jpg" style="width:100px;" title="https://www.fileformat.info/media/5.25-floppy/index.htm"></a></td>
     <td>5.25" floppy disk</td> 
     <td>ca. late 1970s-1980s; flexible, thin, square disk. Magnetic media, single or double-sided, with capacities up to 1.2MB</td>
-    <td><a href="http://www.esocop.org/docs/HowToDiagnoseAndRepairIBMFloppy5.pdf" target="_blank">How To Diagnose and Repair an IBM floppy drive</a></td>
+    <td><a href="http://www.esocop.org/docs/HowToDiagnoseAndRepairIBMFloppy5.pdf" target="_blank">"How To Diagnose and Repair an IBM floppy drive"</a></td>
   </tr>
   <tr>
     <td><a href="images/full-sized/3.5inch_floppy.jpg"><img src="images/full-sized/3.5inch_floppy.jpg" style="width:100px;" title="https://www.fileformat.info/media/3.5-floppy/index.htm"></a></td>
@@ -54,12 +54,19 @@ Consider using <a href="https://www.kryoflux.com/" target="_blank">Kryoflux</a> 
     <td>ca. 1990s; Extremely common in personal and corporate computing. Rigid plastic disks, often with a write protection tab (engage this for archival purposes!). </td>
     <td><a href="https://practicaltechnologyforarchives.org/issue2_waugh/" target="_blank">"A Dogged Pursuit: Capturing Forensic Images of 3.5” Floppy Disks"</a></td>
   </tr>
+  <tr>
+    <td><a href="images/full-sized/video-floppy.png"><img src="images/full-sized/video-floppy.png" style="width:100px;" title="http://www.obsoletemedia.org/2-inch-floppy-disk-video-floppy/"></a></td>
+    <td>2" Video Floppy</td> 
+    <td>ca. 1980s-early 1990s; Analog storage medium, could hold up to 25 still frames of composite NTSC or PAL video. Very little documentation from an archival perspective.</td>
+    <td><a href="https://en.wikipedia.org/wiki/Video_Floppy" target="_blank">"Wikipedia"</a></td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/floptical.jpg"><img src="images/full-sized/floptical.jpg" style="width:100px;" title="http://www.fileformat.info/media/floptical/index.dir"></a></td>
+    <td>Floptical</td> 
+    <td>ca. 1990s; Looks like a regular 3.5" floppy disk but combines optical and magnetic technologies for data storage, up to 21MB.</td>
+    <td><a href="https://www.nyu.edu/tisch/preservation/program/student.../04f_1805_taylor_a1.doc" target="_blank">"MIAP paper by Irene Taylor, 2004"</a></td>
+  </tr>
 </table>
-
-
-3.5-inch floppy disk  
-2-inch video floppy disk  
-Floptical disk
 
 <a name="sony"></a>
 ### Proprietary Sony-specific Formats  
