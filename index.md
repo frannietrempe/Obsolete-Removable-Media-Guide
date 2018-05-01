@@ -4,7 +4,7 @@
 <hr size="10">
 
 
-# Obsolete Media Resource Guide
+# Obsolete Removable Media Guide
 
 This guide is intended for any person or institution with a collection of obsolete removable media—including optical disks, various cartridges or floppies, or external hard disk or flash storage.  
 
