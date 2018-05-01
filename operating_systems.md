@@ -16,7 +16,7 @@ In order to render files that you have extracted (via disk imaging or through lo
 ### If you need to use [emulation](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/pages/emulators.html) to view your files, you will need to know the compatible operating system(s).  
 Look for documentation that lists the computing requirements. For example, a commercial CD-ROM would have come with a booklet or case specifying the operating system(s) on which it will run, or the disc itself could have some indication of requirements. Of course you may not still have such documentation in your possession, or more likely, the removable media was **not** commercially generated and **no** documentation ever existed.  
 
-If this is the case, you will need to make  educated guesses as to when you think the removable media object and its  files were created, and under what circumstances (e.g. a graphic designer is more likely to have been working on a Mac than someone in finance.) This process may take some trial and error.
+If this is the case, you will need to make  educated guesses as to when the removable media object and its files were created, and under what circumstances (e.g. a graphic designer is more likely to have been working on a Mac than someone in finance). This process may take some trial and error.
 
 ## Here is a list of operating systems and their release dates to get you started.
 
@@ -42,11 +42,12 @@ If this is the case, you will need to make  educated guesses as to when you thin
 * **"Classic" Mac Operating System** (1984-2001)
   * [Macintosh System Software "System 1"](https://en.wikipedia.org/wiki/System_1) – released in 1984
   * System Software 2, 3, and 4 – released between 1985 and 1987
-  *  System Software 5 – released in 1987
+  * System Software 5 – released in 1987
   * System Software 6 – released in 1988
   * System 7 / Mac OS 7.6 – released in 1991
   * Mac OS 8 – released in 1997
   * [Mac OS 9](https://en.wikipedia.org/wiki/Mac_OS_9) – released in 1999 (final major version)  
+  
 * **Mac OSX** (2000-2016) / **MacOS** (2016- current)**
   * OS X 10 Public Beta: Kodiak - released in 2000
   * OS X 10.0: Cheetah - released in 2001
