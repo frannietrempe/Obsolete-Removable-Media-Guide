@@ -16,10 +16,11 @@ _Note: This list is not exhaustive! Check out the [Museum of Obsolete Media](htt
 - <a href="#sony">Some unknown Sony format</a>
 - <a href="#cartridge">Other cartridge-based media</a>
 - <a href="#something-else">None of the above</a>
+- <a href="#hardware">I know what formats I have; tell me about hardware, cabling, and adapters</a>
 
 <a name="optical"></a>
 ### Optical disc media  
--R and -RW versions are typically much more fragile than their commercial read-only counterparts.
+Typically, -R and -RW versions are much more fragile than their commercial read-only counterparts.  
 Compact Disc (CD, CD-R, CD-RW, CD-ROM)  
 Digital Video Disc (DVD, DVD-R, DVD-RW, DVD-ROM, DVD-RAM)  
 Blu-Ray disc   
@@ -98,6 +99,12 @@ iPhones
 External hard drives  
 Secure Digital (SD) Cards  
 USB Sticks/Portable Flash Drives/Thumb drives   
+
+<a name="hardware"></a>
+### Hardware, Cabling, and Adapters
+Information about buying old drives, cables, and adapters    
+Linking out to the Cable Bible  
+Potential problems with hardware  
 
 ## Finally...
 If you decide against building a workstation yourself or only have a few objects from which to recover data, consider sending your media out to a trusted data recovery vendor.
