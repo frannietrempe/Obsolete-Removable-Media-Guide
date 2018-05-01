@@ -33,13 +33,19 @@ Blu-Ray disc
     <th>Image</th>
     <th>Format Name</th> 
     <th>Description</th>
-    <th>Preservation Resources</th>
+    <th>Preservation</th>
   </tr>
   <tr>
     <td><a href="images/full-sized/8inch_floppy.jpg"><img src="images/full-sized/8inch_floppy.jpg" style="width:100px;" title="https://en.wikipedia.org/wiki/Floppy_disk#/media/File:8-inch_floppy_disk_-_IZOT,_Bulgaria.jpg" alt="8-inch floppy"></a></td>
-    <td>8-inch floppy disk</td> 
+    <td>8" floppy disk</td> 
     <td>ca. 1970s; IBM-designed device that would eventually hold up to 1.2MB. Used primarily in corporate contexts.</td>
-    <td><a href="http://openpreservation.org/blog/2016/09/01/an-8-floppy-disk-challenge/">An 8" Floppy Disk Challenge</a></td>
+    <td><a href="http://openpreservation.org/blog/2016/09/01/an-8-floppy-disk-challenge/"target="_blank">An 8" Floppy Disk Challenge</a></td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/5.25inch_floppy.jpg"><img src="images/full-sized/5.25inch_floppy.jpg" style="width:100px;" title="https://www.fileformat.info/media/5.25-floppy/index.htm"></a></td>
+    <td>5.25" floppy disk</td> 
+    <td>ca. late 1970s; IBM-designed device that would eventually hold up to 1.2MB. Used primarily in corporate contexts.</td>
+    <td>Consider<a href="https://docs.google.com/document/d/1LViSnYpvr2jf1TrCh6ELuL-FWo14ICw-WZeb8j5GGpU/edit"target="_blank">Kryoflux</a>; <a href="http://www.esocop.org/docs/HowToDiagnoseAndRepairIBMFloppy5.pdf"target="_blank">How To Diagnose and Repair an IBM floppy drive</a></td>
   </tr>
 </table>
 
