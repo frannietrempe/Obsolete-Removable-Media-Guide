@@ -44,7 +44,7 @@ Typically, -R and -RW versions are much more fragile than their commercial read-
     <td><a href="images/full-sized/dvd_rw.jpg"><img src="images/full-sized/dvd_rw.jpg" style="width:100px;" title="https://www.ebay.com/p/Sony-16X-Logo-DVD-R-7GB-Blank-Disc-Media-4/2254529424"></a></td>
     <td>DVD</td> 
     <td>ca. late 1990s-present; optical media for video playback. Numerous varieties, including writable DVD-R and DVD-RW, DVD-ROM, and DVD-RAM</td>
-    <td><a href="https://siarchives.si.edu/blog/and-action-ins-and-outs-dvd-video-preservation" target="_blank">Smithsonian Institution Archives</a>, <a href="https://www.nyu.edu/tisch/preservation/program/student_work/2016fall/16f_2920_Oliveira_a2.pdf" target="_blank">"MIAP paper by Caroline Olivera, 2016"</a>, <a href="https://www.avpreserve.com/wp-content/uploads/2014/04/OpticalMediaPreservation.pdf" target="_blank">"AVPS"</a></td>
+    <td><a href="https://siarchives.si.edu/blog/and-action-ins-and-outs-dvd-video-preservation" target="_blank">Smithsonian Institution Archives</a>, <a href="https://www.nyu.edu/tisch/preservation/program/student_work/2016fall/16f_2920_Oliveira_a2.pdf" target="_blank">MIAP paper by Caroline Olivera, 2016</a>, <a href="https://www.avpreserve.com/wp-content/uploads/2014/04/OpticalMediaPreservation.pdf" target="_blank">AVPS</a></td>
   </tr>
   <tr>
     <td><a href="images/full-sized/blu_ray.jpg"><img src="images/full-sized/blu_ray.jpg" style="width:100px;" title="http://images.verbatim.com/includes/binary_details.php?show=1&id=91432"></a></td>
