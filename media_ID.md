@@ -11,7 +11,7 @@ _Note: This list is not exhaustive! Check out the [Museum of Obsolete Media](htt
 
 ## What format(s) do you have in your collection?
 
-- <a href="#optical">Round discs</a>
+- <a href="#optical">Round optical discs</a>
 - <a href="#floppy">Floppy disks</a>
 - <a href="#sony">Some unknown Sony format</a>
 - <a href="#cartridge">Other cartridge-based media</a>
@@ -100,7 +100,7 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
     <td>ca. late 1980s; Slightly smaller than 3.5" floppy, double-sided. Very little archival documentation; rare format. Drives difficult to locate, bit rot likely</td>
     <td><a href="http://www.obsoletemedia.org/2-8-inch-datadisk/" target="_blank">Museum of Obsolete Media</a></td>
   </tr>
-</table>
+</table>  
 
 <a name="sony"></a>
 ### Proprietary Sony-specific Formats  
