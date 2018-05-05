@@ -11,12 +11,19 @@ This guide is intended for any person or institution with a collection of obsole
 ## Removable media preservation basics:
 Those disks or cartridges store digital files—possibly decades-old, depending on the format, and accessing these files can be a challenge. 
 
-If you want to obtain the material on this media yourself, having the following components is crucial:
+### Getting started:  
+- Can you attach and open your removable media on in your current computer setup? If yes, plug in the drive, insert the media, and make a disk image. If not, then you will need a drive, cables, and/or adapters.
+- Do you know what operating system your media was created on?
+- Do you know what emulation build is required to mimic the computing environment that your object needs?  
+- Did the subject of your collection only use a Mac or PC? Is the disk labeled in some way?
+- Is this piece of media worth investing in purchasing a drive and adapters, setting up a workstation? If not, consider a data recovery vendor.  
 
-- Disk drive specific to your format(s)
-- Cable(s) that connects your disk drive to your computer (and power cables if necessary)
-- Adapters to resolve any cable connection issues
-- An emulation setup to mimic the computing environment that your object needs
+Keep in mind as your begin this journey to recover the data stored on removable media_ID in your collections:
+
+- Do not touch the data parts with your bare hands (circuit boards, magnetic stripes, connectors, the center or underside of optical media).  
+- If media has a write protection/read-only mode, enable it. This might be a notch to engage or similar.  
+- Store upright in a cool, dry place. Remove any acidic paper inserts, separate original packaging from your removable media (though keep it if possible).  
+- Migrate as soon as possible; most removable media has a relatively short lifespan and is not meant for long-term storage.  
 
 **File Systems**: What operating system was used to create your files? When were your files created? Knowing the file system of your removable media can be a big help in obtaining and archiving its content.  
 
