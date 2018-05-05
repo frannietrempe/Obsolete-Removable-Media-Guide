@@ -38,7 +38,7 @@ Typically, -R and -RW versions are much more fragile than their commercial read-
     <td><a href="images/full-sized/cd_rom.jpg"><img src="images/full-sized/cd_rom.jpg" style="width:100px;" title="https://ia800506.us.archive.org/18/items/Microsoft_Encarta_95_Microsoft_Home_1994/00cover.jpg"></a></td>
     <td>CD-ROM</td> 
     <td>ca. 1980s-1990s; Optical format for data storage, most commonly used for software--programs, video games, artworks. May require more involved a preservation effort than a standard audio CD.</td>
-    <td><a href="https://pdfs.semanticscholar.org/6d1b/347b94e2d132a5830fb688c37a4a93f3c8a2.pdf" target="_blank">"Characterization of CD-ROMs for Emulation-based Access"</a>, <a href="https://www.loc.gov/preservation/scientists/projects/cd_longevity.html" target="_blank">"LoC"</a>, <a href="http://www.ncdd.nl/wp-content/uploads/2015/11/201611_DE_Houdbaar_Final_report_CD-ROM_Archiving_DEF.pdf" target="_blank">"NCDD"</a></td>
+    <td><a href="https://pdfs.semanticscholar.org/6d1b/347b94e2d132a5830fb688c37a4a93f3c8a2.pdf" target="_blank">"Characterization of CD-ROMs for Emulation-based Access"</a>, <a href="https://www.loc.gov/preservation/scientists/projects/cd_longevity.html" target="_blank">LoC</a>, <a href="http://www.ncdd.nl/wp-content/uploads/2015/11/201611_DE_Houdbaar_Final_report_CD-ROM_Archiving_DEF.pdf" target="_blank">NCDD</a></td>
   </tr>
   <tr>
     <td><a href="images/full-sized/dvd_rw.jpg"><img src="images/full-sized/dvd_rw.jpg" style="width:100px;" title="https://www.ebay.com/p/Sony-16X-Logo-DVD-R-7GB-Blank-Disc-Media-4/2254529424"></a></td>
@@ -104,11 +104,38 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
 
 <a name="sony"></a>
 ### Proprietary Sony-specific Formats  
-Magneto-Optical disk  
-MiniDisc  
-MD Data  
-Professional Disc / Professional Disc for data  
-Memory Stick  
+<table style="width:100%">
+  <tr>
+    <th>Image</th>
+    <th>Format Name</th> 
+    <th>Description</th>
+    <th>Preservation Resources</th>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/magneto-optical.jpg"><img src="images/full-sized/magneto-optical.jpg" style="width:100px;" title="https://www.amazon.com/Sony-EDM-9100B-Rewritable-Magneto-Optical/dp/B000067S92" alt="Magneto-Optical"></a></td>
+    <td>Magneto-Optical Disk</td> 
+    <td>Not to be confused with Floptical. MO discs contain a ferromagnetic material within a plastic cartridge. Manufactured in 5.25" and 3.5" versions, up to 1.3GB. Not exclusively Sony, though they were the primary manufacturer.</td>
+    <td><a href="https://en.wikipedia.org/wiki/Magneto-optical_drive" target="_blank">Wikipedia</a></td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/sony_memory_stick.png"><img src="images/full-sized/sony_memory_stick.png" style="width:100px;" title="http://www.obsoletemedia.org/memory-stick/"></a></td>
+    <td>Memory Stick</td> 
+    <td>ca. late 1990s-early 2000s; flash memory card, eventually superseded by SD cards. Readers and adapters easy to locate through major tech retailers.</td>
+    <td><a href="https://wiki.dlib.indiana.edu/display/DIGIPRES/Safe+Handling+of+Born-Digital+Physical+Media" target="_blank">"Safe Handling of Born-Digital Physical Media"</a></td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/sony_minidisc.jpg"><img src="images/full-sized/sony_minidisc.jpg" style="width:100px;" title="https://www.amazon.com/Sony-Original-Recording-Minutes-Minidisc/dp/B00RV1XUKI"></a></td>
+    <td>MiniDisc</td> 
+    <td>ca. 1990s-2000s; variants for both audio and data storage. Magneto-optical technology, 2.75" plastic cartridge with small round disc inside.</td>
+    <td><a href="https://www.iasa-web.org/tc04/minidisc" target="_blank">IASA</a>, <a href="http://www.radiosurvivor.com/2015/09/01/preserving-your-audio-legacy-the-perils-of-minidiscs/" target="_blank">Radio Survivor</a></td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/video-floppy.png"><img src="images/full-sized/video-floppy.png" style="width:100px;" title="http://www.obsoletemedia.org/2-inch-floppy-disk-video-floppy/"></a></td>
+    <td>Professional Disc / Professional Disc for DATA</td> 
+    <td>ca. 2003; Video recording and data versions, sometimes referred to as XDCAM discs. DATA variant could hold up to 125GB</td>
+    <td><a href="https://www.nyu.edu/tisch/preservation/program/student_work/2010spring/JonahVolk_Thesis_20110908.pdf" target="_blank">MIAP thesis, John Volk, 2010</a> (addresses issues of file-based digital video, including references to XDCAM)</td>
+  </tr>
+</table>
 
 <a name="cartridge"></a>
 ### Cartridge-based media
