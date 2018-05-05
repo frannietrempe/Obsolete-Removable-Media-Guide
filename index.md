@@ -12,10 +12,10 @@ This guide is intended for any person or institution with a collection of obsole
 Those disks or cartridges store digital files—possibly decades-old, depending on the format, and accessing these files can be a challenge. 
 
 ### Getting started:  
-- Can you attach and open your removable media on in your current computer setup? If yes, plug in the drive, insert the media, and make a disk image. If not, then you will need a drive, cables, and/or adapters.
-- Do you know what operating system your media was created on?
-- Do you know what emulation build is required to mimic the computing environment that your object needs?  
-- Did the subject of your collection only use a Mac or PC? Is the disk labeled in some way?
+- Can you connect and open your removable media on within your current computer setup? If yes, plug in the drive, insert the media, and make a disk image. If not, then you will need a drive, cables, and/or adapters.
+- Do you know what [operating system](operating_systems.html) your media was created on?
+  - Did the owner of your collection exclusively use a Mac or PC? Are disks labeled with any notable information?
+- Do you know what [emulation build](emulators.html) is required to mimic the computing environment that your object needs?  
 - Is this piece of media worth investing in purchasing a drive and adapters, setting up a workstation? If not, consider a data recovery vendor.  
 
 Keep in mind as your begin this journey to recover the data stored on removable media in your collections:
