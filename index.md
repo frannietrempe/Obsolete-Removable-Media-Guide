@@ -18,7 +18,7 @@ Those disks or cartridges store digital files—possibly decades-old, depending 
 - Did the subject of your collection only use a Mac or PC? Is the disk labeled in some way?
 - Is this piece of media worth investing in purchasing a drive and adapters, setting up a workstation? If not, consider a data recovery vendor.  
 
-Keep in mind as your begin this journey to recover the data stored on removable media_ID in your collections:
+Keep in mind as your begin this journey to recover the data stored on removable media in your collections:
 
 - Do not touch the data parts with your bare hands (circuit boards, magnetic stripes, connectors, the center or underside of optical media).  
 - If media has a write protection/read-only mode, enable it. This might be a notch to engage or similar.  
