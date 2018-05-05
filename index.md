@@ -14,11 +14,11 @@ Those disks or cartridges store digital files—possibly decades-old, depending 
 ### Getting started:  
 - Can you connect and open your removable media on within your current computer setup? If yes, plug in the drive, insert the media, and make a disk image. If not, then you will need a drive, cables, and/or adapters.
 - Do you know what [operating system](operating_systems.html) your media was created on?
-  - Did the owner of your collection exclusively use a Mac or PC? Are disks labeled with any notable information?
+  - Did the owner of your collection exclusively use a Mac or PC? Are disks labeled with any notable information?  
 - Do you know what [emulation build](emulators.html) is required to mimic the computing environment that your object needs?  
 - Is this piece of media worth investing in purchasing a drive and adapters, setting up a workstation? If not, consider a data recovery vendor.  
 
-Keep in mind as your begin this journey to recover the data stored on removable media in your collections:
+**Keep in mind** as your begin this journey to recover the data stored on removable media in your collections:
 
 - Do not touch the data parts with your bare hands (circuit boards, magnetic stripes, connectors, the center or underside of optical media).  
 - If media has a write protection/read-only mode, enable it. This might be a notch to engage or similar.  
