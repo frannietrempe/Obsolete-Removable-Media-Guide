@@ -104,6 +104,7 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
 
 <a name="sony"></a>
 ### Proprietary Sony-specific Formats
+Sony produced a variety of removable media formats throughout the 1990s and 2000s, to varying degrees of success. Fortunately, since Sony was and remains a household name in personal computing, locating functioning decks should not be terribly difficult.  
 <table style="width:100%">
   <tr>
     <th>Image</th>
@@ -137,7 +138,8 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
   </tr>
 </table>
 
-### Cartridge-based media (Iomega and others)
+### Cartridge-based media (Iomega and others)  
+Before their absorption by Lenovo in 2013, Iomega was one of the most notable manufacturers of removable media, though often to <a href="http://www.geocities.ws/iomegano/" target="_blank">disastrous results</a>. Iomega and other cartridge-based drives can be difficult to locate due to their extreme specificity and relative obscurity. The majority of the disks listed below connected via SCSI interface.
 <a name="cartridge"></a>
 <table style="width:100%">
   <tr>
