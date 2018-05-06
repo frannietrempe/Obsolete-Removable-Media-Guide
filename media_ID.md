@@ -68,7 +68,7 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
     <td><a href="images/full-sized/8inch_floppy.jpg"><img src="images/full-sized/8inch_floppy.jpg" style="width:100px;" title="https://en.wikipedia.org/wiki/Floppy_disk#/media/File:8-inch_floppy_disk_-_IZOT,_Bulgaria.jpg" alt="8-inch floppy"></a></td>
     <td>8" floppy disk</td>
     <td>ca. 1970s; IBM-designed device, earliest version had a capacity of 80KB. Used primarily in corporate contexts.</td>
-    <td><a href="http://openpreservation.org/blog/2016/09/01/an-8-floppy-disk-challenge/" target="_blank">"An 8" Floppy Disk Challenge"</a></td>
+    <td><a href="http://openpreservation.org/blog/2016/09/01/an-8-floppy-disk-challenge/" target="_blank">"An 8" Floppy Disk Challenge"</a>, <a href="https://ipres2017.jp/wp-content/uploads/54Denise-de-VriesA.pdf" target="_blank">"A Case Study on Retrieval of Data from 8-inch Disks"</a></td>
   </tr>
   <tr>
     <td><a href="images/full-sized/5.25inch_floppy.jpg"><img src="images/full-sized/5.25inch_floppy.jpg" style="width:100px;" title="https://www.fileformat.info/media/5.25-floppy/index.htm"></a></td>
@@ -80,7 +80,7 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
     <td><a href="images/full-sized/3.5inch_floppy.jpg"><img src="images/full-sized/3.5inch_floppy.jpg" style="width:100px;" title="https://www.fileformat.info/media/3.5-floppy/index.htm"></a></td>
     <td>3.5" floppy disk</td>
     <td>ca. 1990s; Extremely common in personal and corporate computing. Rigid plastic disks, often with a write protection tab (engage this for archival purposes!). </td>
-    <td><a href="https://practicaltechnologyforarchives.org/issue2_waugh/" target="_blank">"A Dogged Pursuit: Capturing Forensic Images of 3.5” Floppy Disks"</a></td>
+    <td><a href="http://www.os2museum.com/wp/preserving-floppies/" target="_blank">Necasek, "Preserving Floppies"</a>, <a href="https://practicaltechnologyforarchives.org/issue2_waugh/" target="_blank">Waugh, "A Dogged Pursuit: Capturing Forensic Images of 3.5” Floppy Disks"</a></td>
   </tr>
   <tr>
     <td><a href="images/full-sized/video-floppy.png"><img src="images/full-sized/video-floppy.png" style="width:100px;" title="http://www.obsoletemedia.org/2-inch-floppy-disk-video-floppy/"></a></td>
