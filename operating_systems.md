@@ -41,7 +41,7 @@ If this is the case, you will need to make  educated guesses as to when the remo
 * <a href="https://en.wikipedia.org/wiki/Windows_10" target="_blank">Windows 10</a> – released in 2015
 
 
-#### Mac OS (Apple)**
+#### Mac OS (Apple)
 * **"Classic" Mac Operating System** (1984-2001)
   * <a href="https://en.wikipedia.org/wiki/System_1" target="_blank">Macintosh System Software "System 1"</a> – released in 1984
   * <a href="https://en.wikipedia.org/wiki/Classic_Mac_OS#System_1,_2,_3_and_4" target="_blank">System Software 2, 3, and 4</a> – released in 1985 and 1987
