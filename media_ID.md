@@ -131,7 +131,7 @@ Sony produced a variety of removable media formats throughout the 1990s and 2000
     <td><a href="https://www.iasa-web.org/tc04/minidisc" target="_blank">IASA</a>, <a href="http://www.radiosurvivor.com/2015/09/01/preserving-your-audio-legacy-the-perils-of-minidiscs/" target="_blank">Radio Survivor</a></td>
   </tr>
   <tr>
-    <td><a href="images/full-sized/video-floppy.png"><img src="images/full-sized/video-floppy.png" style="width:100px;" title="http://www.obsoletemedia.org/2-inch-floppy-disk-video-floppy/"></a></td>
+    <td><a href="images/full-sized/sony_professional-disk.png"><img src="images/full-sized/sony_professional-disk.png" style="width:100px;" title="http://www.obsoletemedia.org/tag/blue-laser/"></a></td>
     <td>Professional Disc / Professional Disc for DATA</td>
     <td>ca. 2003; Video recording and data versions, sometimes referred to as XDCAM discs. DATA variant could hold up to 125GB</td>
     <td><a href="https://www.nyu.edu/tisch/preservation/program/student_work/2010spring/JonahVolk_Thesis_20110908.pdf" target="_blank">MIAP thesis, John Volk, 2010</a> (addresses issues of file-based digital video, including references to XDCAM), <a href="https://web.archive.org/web/20050518171330/http://www.sony.net:80/Products/MO-Drive/ProDATA/pdf/proData_E.pdf" target="_blank">Sony Professional Disc DATA catalog (Wayback Machine)</a></td>
