@@ -177,10 +177,10 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
     <td><a href="https://web.library.yale.edu/sites/default/files/files/Yale_Inventory_Final_Report_20151021.pdf" target="_blank">AV Preserve Yale collection inventory</a> (in which REV disks are briefly mentioned)</td>
   </tr>
   <tr>
-    <td><a href="images/full-sized/video-floppy.png"><img src="images/full-sized/video-floppy.png" style="width:100px;" title="http://www.obsoletemedia.org/2-inch-floppy-disk-video-floppy/"></a></td>
+    <td><a href="images/full-sized/syquest.jpg"><img src="images/full-sized/syquest.jpg" style="width:100px;" title="https://commons.wikimedia.org/wiki/File:SyQuest_Disk_SQ2000_200_MB.jpg"></a></td>
     <td>Syquest disk</td>
-    <td>ca. 2003; Video recording and data versions, sometimes referred to as XDCAM discs. DATA variant could hold up to 125GB</td>
-    <td><a href="https://www.nyu.edu/tisch/preservation/program/student_work/2010spring/JonahVolk_Thesis_20110908.pdf" target="_blank">MIAP thesis, John Volk, 2010</a> (addresses issues of file-based digital video, including references to XDCAM)</td>
+    <td>ca. late 1980s-early 1990s; 5.25" cartridges, primarily used on Macintosh computers via SCSI interface.</td>
+    <td><a href="https://web.library.yale.edu/news/2013/09/collaboration-preservation-recovering-born-digital-records" target="_blank">Yale University Library, "Collaboration Before Preservation: Recovering Born Digital Records in the Stephen Gendin Papers"</a>, <a href="https://matienzo.org/2013/collaboration-before-preservation-recovering-born-digital-records-in-the-stephen-gendin-papers/" target="_blank">alternative link (with photographs)</a>, <a href="http://goughlui.com/2013/07/28/project-a-long-fogotten-syquest-cartridge-visits/" target="_blank">Dr Gough's Tech Zone</a></td>
   </tr>
   <tr>
     <td><a href="images/full-sized/video-floppy.png"><img src="images/full-sized/video-floppy.png" style="width:100px;" title="http://www.obsoletemedia.org/2-inch-floppy-disk-video-floppy/"></a></td>
