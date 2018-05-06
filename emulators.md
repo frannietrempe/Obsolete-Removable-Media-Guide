@@ -82,4 +82,5 @@ Emulators are assembled  of several pieces, and different emulating applications
    * <a href="https://archive.org/details/mac_rom_archive_-_as_of_8-19-2011" target="_blank">Internet Archive Mac ROM Archive</a> – collection of obsolete Macintosh ROM files.
    * [Not sure if PC emulators require a ROM in the same way]   
 <br>
- **NOTE:** Operating system installation disks and ROMs are under copyright. Unfortunately, it's often not possible to purchase them anymore. In an effort to promote digital preservation, many users have shared disk images of this "abandonware" on the internet.
+
+**NOTE:** Operating system installation disks and ROMs are under copyright. Unfortunately, it's often not possible to purchase them anymore. In an effort to promote digital preservation, many users have shared disk images of this "abandonware" on the internet.
