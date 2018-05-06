@@ -7,7 +7,7 @@
 
 If you are unsure what formats you currently possess, use the images below to help identify your objects. Click to enlarge images and hover over images for source URLs.
 
-_Note: This list is by no means exhaustive! Check out the [Museum of Obsolete Media](http://www.obsoletemedia.org/) for more formats than are listed here._
+_Note: This list is by no means exhaustive, and some of the formats listed below are widely used today and not currently obsolete! Check out the [Museum of Obsolete Media](http://www.obsoletemedia.org/) for more formats than are listed here._
 
 ## What format(s) do you have in your collection?
 
@@ -136,11 +136,11 @@ Sony produced a variety of removable media formats throughout the 1990s and 2000
     <td>ca. 2003; Video recording and data versions, sometimes referred to as XDCAM discs. DATA variant could hold up to 125GB</td>
     <td><a href="https://www.nyu.edu/tisch/preservation/program/student_work/2010spring/JonahVolk_Thesis_20110908.pdf" target="_blank">MIAP thesis, John Volk, 2010</a> (addresses issues of file-based digital video, including references to XDCAM), <a href="https://web.archive.org/web/20050518171330/http://www.sony.net:80/Products/MO-Drive/ProDATA/pdf/proData_E.pdf" target="_blank">Sony Professional Disc DATA catalog (Wayback Machine)</a></td>
   </tr>
-</table>
+</table>  
 
+<a name="cartridge"></a>
 ### Cartridge-based media (Iomega and other brands)  
 Before their absorption by Lenovo in 2013, Iomega was one of the most notable manufacturers of removable media, though often to <a href="http://www.geocities.ws/iomegano/" target="_blank">disastrous results</a>. Iomega and other cartridge-based drives can be difficult to locate due to their extreme specificity and often relative obscurity. The majority of the disks listed below connected via SCSI interface. The Zip drive even made an <a href="https://i.imgur.com/lwz8mWD.gifv" target="_blank">appearance</a> in a 2001 episode of <i>Sex and the City</i>
-<a name="cartridge"></a>
 <table style="width:100%">
   <tr>
     <th>Image</th>
@@ -164,7 +164,7 @@ Before their absorption by Lenovo in 2013, Iomega was one of the most notable ma
     <td><a href="images/full-sized/jaz.jpg"><img src="images/full-sized/jaz.jpg" style="width:100px;" title="http://www.fileformat.info/media/jaz/zoom-photo.htm"></a></td>
     <td>Jaz disk</td>
     <td>ca. late 1990s; Iomega removable hard disk, SCSI. Prone to overheating and jams.</td>
-    <td><a href="ftp://ftp.wayne.edu/ldp/en/Jaz-Drive-HOWTO/Jaz-Drive-HOWTO.pdf" target="_blank">Herbert S. DaSilva "Jaz-drive HOWTO"</a>, <a href="https://www.nyu.edu/tisch/preservation/program/student_work/2005fall/05f_1805_felixdidier_a2.pdf" target="_blank">MIAP paper, Paula Felix-Didier, 2005</a></td>
+    <td><a href="ftp://ftp.wayne.edu/ldp/en/Jaz-Drive-HOWTO/Jaz-Drive-HOWTO.pdf" target="_blank">Herbert S. DaSilva "Jaz-drive HOWTO"</a>, <a href="http://campuspress.yale.edu/borndigital/2013/02/08/imagingjazdisks/" target="_blank">Yale, "Imaging Jaz Disks"</a>, <a href="https://www.nyu.edu/tisch/preservation/program/student_work/2005fall/05f_1805_felixdidier_a2.pdf" target="_blank">MIAP paper, Paula Felix-Didier, 2005</a></td>
   </tr>
   <tr>
     <td><a href="images/full-sized/iomega_clik.gif"><img src="images/full-sized/iomega_clik.gif" style="width:100px;" title="http://us.electronics-online-store.net/node/electronics/brands/accessories/26950287.html"></a></td>
@@ -190,21 +190,55 @@ Before their absorption by Lenovo in 2013, Iomega was one of the most notable ma
     <td>ca. 1990s; 3.5", Considered a "superfloppy" technology due to its relatively high capacity of up to 750MB. Various drives employed various connections, including USB 1.1, 2.0, Firewire, SCSI, Parallel Port, and ATAPI</td>
         <td><a href="https://www.nature.com/news/disks-back-from-the-dead-1.21916" target="_blank">Nature.com, "Disks back from the dead"</a>, <a href="https://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties" target="_blank">Canadian Centre for Architecture, "How to Access Digital Files from the Nineties"</a>, <a href="https://www.nyu.edu/tisch/preservation/program/student_work/2005fall/05f_1805_singer_a2.pdf" target="_blank">MIAP paper, Martha Singer, 2005</a></td>
   </tr>
-</table>
+</table>  
 
 <a name="something-else"></a>
 ### Other Removable Media
-Android phones  
-iPhones  
-External hard drives  
-Secure Digital (SD) Cards  
-USB Sticks/Portable Flash Drives/Thumb drives  
+<table style="width:100%">
+  <tr>
+    <th>Image</th>
+    <th>Format Name</th>
+    <th>Description</th>
+    <th>Preservation Resources</th>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/spy-on-android-phone-without-installing-software.jpg"><img src="images/full-sized/spy-on-android-phone-without-installing-software.jpg" style="width:100px;" title="https://www.spyzie.com/spy/spy-on-android-phone-without-installing-software.html"></a></td>
+    <td>Android smart phones</td>
+    <td>ca. late 2000s-present; Mobile operating system developed by Google, modified version of the Linux kernal. Smart phones that run Android are manufactured by a wide variety of companies. Connections may vary depending on device. Since Android-based devices are relatively new, most preservation-minded documentation stems from the digital forensics community. </td>
+    <td><a href="http://qanda.digipres.org/26/how-do-i-take-a-forensic-image-of-an-android-smartphone" target="_blank">Digipres.org Q&A</a>, <a href="http://www.d4discovery.com/discover-more/ediscovery-update-7-tips-to-preserve-review-mobile-device-data#sthash.Gy79jAXh.dpbs" target="_blank">"7 Tips to Preserve and Review Mobile Device Data</a> (legal perspective and analysis)</td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/iphone.jpg"><img src="images/full-sized/iphone.jpg" style="width:100px;" title="https://www.lifewire.com/first-generation-iphone-review-2000196"></a></td>
+    <td>iPhones</td>
+    <td>ca. 2007-present; Mobile device developed and manufactured by Apple.</td>
+    <td><a href="https://www.sfmoma.org/read/theres-no-app-adventures-conserving-old-tech/" target="_blank">SFMOMA</a>, <a href="http://sbotsections.com/wp-content/uploads/2017/11/ball_12-2017-mobile-preservation_iOS.pdf" target="_blank">Ball, "Custodian-Directed Preservation of iPhone Content" (legal perspective)</a>, <a href="https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2017/09/28/pasig-2017-smartphones-within-the-changing-landscape-of-digital-preservation/" target="_blank">Bodleian Libraries, "PASIG 2017 Smartphones within the changing landscape of digital preservation"</a></td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/hdd2.jpg"><img src="images/full-sized/hdd2.jpg" style="width:100px;" title="http://www.duftopia.com/html/acom_160gb_ext__hd.html"></a></td>
+    <td>External hard disk drives</td>
+    <td>ca. 1980s-present; Extremely common form of personal data storage. File systems, capacities, manufacturers, connections all vary. Fortunately no external drive is needed, and if you can attach the HDD to your computer and make a disk image, you are in good shape! If you have a write-blocker, use it.</td>
+    <td><a href="http://notepad.benfinoradin.info/2013/09/12/it-takes-a-village-to-save-a-hard-drive/" target="_blank">Fino-Radin, "It Takes a Village to Save a Hard Drive"</a></td>
+  </tr>
+  <tr>
+    <td><a href="images/full-sized/SD_cards.jpg"><img src="images/full-sized/SD_cards.jpg" style="width:100px;" title="https://www.pentaxforums.com/articles/photo-articles/comprehensive-sd-card-guide.html"></a></td>
+    <td>Secure Digital (SD) Cards</td>
+    <td>ca. early 2000s-2010s; Portable flash storage for a variety of devices including digital cameras and mobile phones. Variety of sizes and capacities. Requires need a separate card reader, often with a USB connector.</td>
+    <td><a href="https://www.nedcc.org/preservation101/session-6/6storage-and-handling-of-media-collections#computer" target="_blank">NEDCC (section 5, "Computer Media")</a>
+  <tr>
+    <td><a href="images/full-sized/zip_disk.jpg"><img src="images/full-sized/zip_disk.jpg" style="width:100px;" title="https://www.amazon.com/Iomega-Formatted-reformattable-Discontinued-Manufacturer/dp/B00004Z83E"></a></td>
+    <td>USB sticks/thumb drives/portable flash drives</td>
+    <td>ca. 2000s-present; USB connection, usually directly to a computer. Low risk, as these devices are still in use. Physical damage common.</td>
+        <td><a href="https://www.nedcc.org/preservation101/session-6/6inherent-vice-computer-media#flash" target="_blank">NEDCC</a></td>
+  </tr>
+</table>
 
 <a name="hardware"></a>
 ### Hardware, Cabling, and Adapters
-Information about buying old drives, cables, and adapters
-Linking out to the Cable Bible
-Potential problems with hardware
+Since drives for the majority of the above listed formats are no longer being manufactured, secondhand sources such as eBay, craigslist, electronics recycling centers, or even office equipment liquidation outlets are your best (and often only) option when sourcing equipment. If possible, set up alerts on these websites to notify you when a particular format, model, or cable is for sale. Be sure to note any descriptions regarding functionality of the piece in question.
+
+Online forums related to the worlds of retro gaming or vintage computing may provide additional advice or direction, in addition to folks within the digital preservation and/or digital forensics communities. 
+
+For information regarding connectors and cabling that can help you successfully attach a drive to a contemporary computer, check out <a href="https://amiaopensource.github.io/cable-bible/" target="_blank">The Cable Bible</a>! 
 
 ## Finally...
 If you decide against building a workstation yourself or only have a few objects from which to recover data, consider sending your media out to a trusted data recovery vendor.
