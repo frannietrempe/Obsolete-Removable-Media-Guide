@@ -51,17 +51,17 @@ If this is the case, you will need to make  educated guesses as to when the remo
   * <a href="https://en.wikipedia.org/wiki/Mac_OS_8" target="_blank">Mac OS 8</a> – released in 1997
   * <a href="https://en.wikipedia.org/wiki/Mac_OS_9" target="_blank">Mac OS 9</a> – released in 1999 (final major version)
 * **Mac OSX** (2000-2016) / **MacOS** (2016- current)**
- * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_10.0" target="_blank">OS X 10.0 </a> Cheetah – released in 2001
- * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_10.1" target="_blank">OS X 10.1 </a> Puma - released in 2001
- * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_10.2" target="_blank">OS X 10.2 </a> Jaguar - released in 2002
- * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Panther" target="_blank">OS X 10.3 </a> Panther - released in 2003
- * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Tiger" target="_blank">OS X 10.4 </a> Tiger - released in 2005
- * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Leopard" target="_blank">OS X 10.5 </a> Leopard - released in 2007
- * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard" target="_blank">OS X 10.6 </a> Snow Leopard - released in 2009
- * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Lion" target="_blank">OS X 10.7 </a> Lion - released in 2011
- * <a href="https://en.wikipedia.org/wiki/OS_X_Mountain_Lion" target="_blank">OS X 10.8 </a> Mountain Lion - released in 2012
- * <a href="https://en.wikipedia.org/wiki/OS_X_Mavericks" target="_blank">OS X 10.9 </a> Mavericks - released in 2013
- * <a href="https://en.wikipedia.org/wiki/OS_X_Yosemite" target="_blank">OS X 10.10 </a> Yosemite - released in 2014
- * <a href="https://en.wikipedia.org/wiki/OS_X_El_Capitan" target="_blank">OS X 10.11 </a> El Capitan - released in 2015
- * <a href="https://en.wikipedia.org/wiki/MacOS_Sierra" target="_blank">OS X 10.12 </a> Sierra - released in 2016
- * <a href="https://en.wikipedia.org/wiki/MacOS_High_Sierra" target="_blank">OS X 10.13 </a> High Sierra - released in 2017
+  * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_10.0" target="_blank">OS X 10.0 </a> Cheetah – released in 2001
+  * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_10.1" target="_blank">OS X 10.1 </a> Puma - released in 2001
+  * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_10.2" target="_blank">OS X 10.2 </a> Jaguar - released in 2002
+  * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Panther" target="_blank">OS X 10.3 </a> Panther - released in 2003
+  * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Tiger" target="_blank">OS X 10.4 </a> Tiger - released in 2005
+  * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Leopard" target="_blank">OS X 10.5 </a> Leopard - released in 2007
+  * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard" target="_blank">OS X 10.6 </a> Snow Leopard - released in 2009
+  * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Lion" target="_blank">OS X 10.7 </a> Lion - released in 2011
+  * <a href="https://en.wikipedia.org/wiki/OS_X_Mountain_Lion" target="_blank">OS X 10.8 </a> Mountain Lion - released in 2012
+  * <a href="https://en.wikipedia.org/wiki/OS_X_Mavericks" target="_blank">OS X 10.9 </a> Mavericks - released in 2013
+  * <a href="https://en.wikipedia.org/wiki/OS_X_Yosemite" target="_blank">OS X 10.10 </a> Yosemite - released in 2014
+  * <a href="https://en.wikipedia.org/wiki/OS_X_El_Capitan" target="_blank">OS X 10.11 </a> El Capitan - released in 2015
+  * <a href="https://en.wikipedia.org/wiki/MacOS_Sierra" target="_blank">OS X 10.12 </a> Sierra - released in 2016
+  * <a href="https://en.wikipedia.org/wiki/MacOS_High_Sierra" target="_blank">OS X 10.13 </a> High Sierra - released in 2017
