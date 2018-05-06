@@ -79,7 +79,7 @@ Emulators are assembled  of several pieces, and different emulating applications
    * <a href="https://github.com/macmade/Macintosh-ROMs" target="_blank">Macintosh-ROMs</a> – collection of obsolete Macintosh ROM files.
    * <a href="http://www.redundantrobot.com/sheepshaver.html" target="_blank">Redundant Robot</a> – Mac ROMs to use with SheepShaver and Basillisk II  
    * <a href="https://archive.org/details/mac_rom_archive_-_as_of_8-19-2011" target="_blank">Internet Archive Mac ROM Archive</a> – collection of obsolete Macintosh ROM files.  
-   * [Not sure if PC emulators require a ROM in the same way]   
+   * [Not sure if PC emulators require a ROM in the same way]   
 <br>
 
 **NOTE:** Operating system installation disks and ROMs are under copyright. Unfortunately, it's often not possible to purchase them anymore. In an effort to promote digital preservation, many users have shared disk images of this "abandonware" on the internet.
