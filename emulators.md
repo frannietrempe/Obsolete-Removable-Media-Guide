@@ -52,10 +52,10 @@ There are different emulating applications for different operating systems/hardw
       * NetBSD
       * OpenIndiana
 * #### Windows
-  * <a href="https://www.qemu.org/" target="_blank">QEMU</a> - a generic emulator that has the ability to emulate _any_ guest computing environment (operating system and hardware) on any other host, but is most often hosted on Linux.
+  * <a href="https://www.qemu.org/" target="_blank"><b>QEMU</b></a> - a generic emulator that has the ability to emulate _any_ guest computing environment (operating system and hardware) on any other host, but is most often hosted on Linux.
 
 * #### DOS
-  * <a href="https://sourceforge.net/projects/dosbox/" target ="_blank">DOSBox</a> – emulates MS-DOS using the command line. Primary use is to run old computer games. Start <a href="https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox" target ="_blank">here</a>.
+  * <a href="https://sourceforge.net/projects/dosbox/" target ="_blank"><b>DOSBox</b></a> – emulates MS-DOS using the command line. Primary use is to run old computer games. Start <a href="https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox" target ="_blank">here</a>.
     * can be hosted on the following systems:
       * Mac OS X
       * Windows
