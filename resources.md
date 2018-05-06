@@ -37,7 +37,7 @@ Oracle <a href="https://www.virtualbox.org/" target="_blank">"Welcome to Virtual
 Oracle <a href="https://www.virtualbox.org/manual/UserManual.html" target="_blank">"Virtual Box User Manual"</a>
 
 
- ### BitCurator:
+### BitCurator:
 
 Main Page: <a href="https://bitcurator.net/" target="_blank">"BitCurator Project"</a>
 
