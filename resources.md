@@ -7,7 +7,7 @@
 
 <a name="Disk-Imaging"></a>
 ## Disk Imaging
-Charlton, Elizabeth. <a href="https://practicaltechnologyforarchives.org/issue6_charlton/" target="_blank">"Working with legacy media: A lone arranger's first steps"</a>. <i>Practical Technology for Archives</i>  
+Charlton, Elizabeth. <a href="https://practicaltechnologyforarchives.org/issue6_charlton/" target="_blank">"Working with legacy media: A lone arranger's first steps"</a>. 
 
 Dowding, Heidi and Menzies, Luke. <a href="https://wiki.dlib.indiana.edu/display/DIGIPRES/Accession+Procedure+for+Disk+Images" target="_blank">"Accession Procedures for Disk Images"</a>  
 
