@@ -12,7 +12,7 @@ Media Archaelogy Lab. <a href="http://www.obsoletemedia.org/" target="_blank">"M
 
 Gates, Ethan. <a href="https://amiaopensource.github.io/cable-bible/" target="_blank">"The Cable Bible"</a>  
 
-Google Document: <a href="goo.gl/ZZxxAJ" target="_blank">"The Archivist’s Guide to KryoFlux"</a> 
+<a href="goo.gl/ZZxxAJ" target="_blank">"The Archivist’s Guide to KryoFlux"</a> 
 
 <a name="Disk-Imaging"></a>
 ### Disk Imaging:
@@ -28,7 +28,7 @@ Woods, Kam and Lee, Christopher A. <a href="https://ils.unc.edu/callee/archiving
 
 ### Emulation:
 
-Wiki: <a href="https://emaculation.com/" target="_blank">"E-Maculation: All About Macintosh Emulation"</a>
+<a href="https://emaculation.com/" target="_blank">"E-Maculation: All About Macintosh Emulation"</a>
 
 Rechert, Klaus, and Patricia Falcao. <a href="https://pdfs.semanticscholar.org/7801/989ed19bf711d1e92ddac88a616b823e82fa.pdf" target="_blank">"Introduction to an Emulation-Based Preservation Strategy for Software-Based Artworks."</a>'
 
