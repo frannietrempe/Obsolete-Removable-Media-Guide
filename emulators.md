@@ -72,7 +72,7 @@ Emulators are assembled  of several pieces, and different emulating applications
   * <a href="https://sourceforge.net/projects/dosbox/" target ="_blank">DOSBox</a>  
   <br>
 * **Operating System Installer** – this is an installation disk of the OS  you want to emulate (could be a physical object or a downloaded disk image)
-  * <a href="https://winworldpc.com/library/operating-systemsWinWorld" target="_blank">WinWorld</a> – library of operating system disk images for download
+  * <a href="https://winworldpc.com/library/operating-systems" target="_blank">WinWorld</a> – library of operating system disk images for download
    * <a href="https://archive.org/details/cdromsoftware" target="_blank">Internet Archive CD-ROM Software Library</a> – includes many operating system disk images for download  
 <br>
  * **ROM File** – This is an extractable or downloadable file that will mimic data contained in a read-only memory chip from a compatible piece of legacy hardware.
