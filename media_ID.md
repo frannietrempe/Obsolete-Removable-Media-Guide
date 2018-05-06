@@ -138,8 +138,8 @@ Sony produced a variety of removable media formats throughout the 1990s and 2000
   </tr>
 </table>
 
-### Cartridge-based media (Iomega and others)  
-Before their absorption by Lenovo in 2013, Iomega was one of the most notable manufacturers of removable media, though often to <a href="http://www.geocities.ws/iomegano/" target="_blank">disastrous results</a>. Iomega and other cartridge-based drives can be difficult to locate due to their extreme specificity and relative obscurity. The majority of the disks listed below connected via SCSI interface.
+### Cartridge-based media (Iomega and other brands)  
+Before their absorption by Lenovo in 2013, Iomega was one of the most notable manufacturers of removable media, though often to <a href="http://www.geocities.ws/iomegano/" target="_blank">disastrous results</a>. Iomega and other cartridge-based drives can be difficult to locate due to their extreme specificity and often relative obscurity. The majority of the disks listed below connected via SCSI interface. The Zip drive even made an <a href="https://i.imgur.com/lwz8mWD.gifv" target="_blank">appearance</a> in a 2001 episode of <i>Sex and the City</i>
 <a name="cartridge"></a>
 <table style="width:100%">
   <tr>
