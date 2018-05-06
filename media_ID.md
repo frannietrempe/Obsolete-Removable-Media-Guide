@@ -224,6 +224,7 @@ Before their absorption by Lenovo in 2013, Iomega was one of the most notable ma
     <td>Secure Digital (SD) Cards</td>
     <td>ca. early 2000s-2010s; Portable flash storage for a variety of devices including digital cameras and mobile phones. Variety of sizes and capacities. Requires need a separate card reader, often with a USB connector.</td>
     <td><a href="https://www.nedcc.org/preservation101/session-6/6storage-and-handling-of-media-collections#computer" target="_blank">NEDCC (section 5, "Computer Media")</a></td>
+  </tr>
   <tr>
     <td><a href="images/full-sized/usb_stick.png"><img src="images/full-sized/usb_stick.png" style="width:100px;" title="https://en.wikipedia.org/wiki/USB_flash_drive"></a></td>
     <td>USB sticks/thumb drives/portable flash drives</td>
