@@ -12,7 +12,7 @@ Media Archaelogy Lab. <a href="http://www.obsoletemedia.org/" target="_blank">"M
 
 Gates, Ethan. <a href="https://amiaopensource.github.io/cable-bible/" target="_blank">"The Cable Bible"</a>  
 
-<a href="goo.gl/ZZxxAJ" target="_blank">"The Archivist’s Guide to KryoFlux"</a> 
+<a href="https://docs.google.com/document/d/1LViSnYpvr2jf1TrCh6ELuL-FWo14ICw-WZeb8j5GGpU/edit" target="_blank">"The Archivist’s Guide to KryoFlux"</a> 
 
 <a name="Disk-Imaging"></a>
 ### Disk Imaging:
