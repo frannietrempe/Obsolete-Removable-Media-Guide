@@ -22,22 +22,21 @@ An example of this is using a guest <a href="https://bitcurator.net/BitCurator" 
 ### Selecting an emulator:
 There are different emulating applications for different operating systems/hardware architectures. These applications come with varying levels of pre-configuration and compilation. There are MANY emulators out there, but here are some well-documented ones to get you started:
 
-
 * #### Mac OS
-  * <a href="http://sheepshaver.cebix.net/" target="_blank">SheepShaver</a> – emulates a <a href="https://en.wikipedia.org/wiki/Power_Macintosh" target="_blank">PowerPC Mac</a> (MacOS 7.5.2 through 9.0.4)
+  * <a href="http://sheepshaver.cebix.net/" target="_blank"><b>SheepShaver</b></a> – emulates a <a href="https://en.wikipedia.org/wiki/Power_Macintosh" target="_blank">PowerPC Mac</a> (MacOS 7.5.2 through 9.0.4)
     * can be hosted on the following systems:
       * Mac OS X (PowerPC and Intel)
       * Windows NT/2000/XP
       * Unix with X11 (Linux i386/x86_64/ppc, NetBSD 2.x, FreeBSD 3.x)
       * BeOS R4/R5 (PowerPC)
-  * <a href="https://basilisk.cebix.net/" target="_blank">Basillisk II</a> – emulates a <a href="https://en.wikipedia.org/wiki/Macintosh_Classic" target="_blank">Mac Classic</a> (MacOS 0.x thru 7.5) or a <a href="https://en.wikipedia.org/wiki/Macintosh_II_family" target="_blank">Mac II</a> (MacOS 7.x, 8.0, 8.1)
+  * <a href="https://basilisk.cebix.net/" target="_blank"><b>Basillisk II</b></a> – emulates a <a href="https://en.wikipedia.org/wiki/Macintosh_Classic" target="_blank">Mac Classic</a> (MacOS 0.x thru 7.5) or a <a href="https://en.wikipedia.org/wiki/Macintosh_II_family" target="_blank">Mac II</a> (MacOS 7.x, 8.0, 8.1)
     * can be hosted on the following systems:
       * Mac OS X (PowerPC and Intel)
       * Windows NT/2000/XP
       * Unix with X11 (Linux i386/x86_64, Solaris 2.5, FreeBSD 3.x, IRIX 6.5)
       * BeOS R4/R5 (PowerPC)
       * AmigaOS 3.x
-  * <a href="http://www.gryphel.com/c/minivmac/index.html" target ="_blank">Mini vMac</a> variations for
+  * <a href="http://www.gryphel.com/c/minivmac/index.html" target ="_blank"><b>Mini vMac</b></a> variations for
 <a href="https://en.wikipedia.org/wiki/Macintosh_128K" target="_blank">Mac 128K</a>,
 <a href="https://en.wikipedia.org/wiki/Macintosh_512K" target="_blank">Mac 512K</a>,
 <a href="https://en.wikipedia.org/wiki/Macintosh_512Ke" target="_blank">Mac 512Ke</a>,  
