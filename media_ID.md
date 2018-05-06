@@ -187,14 +187,8 @@ Before their absorption by Lenovo in 2013, Iomega was one of the most notable ma
   <tr>
     <td><a href="images/full-sized/zip_disk.jpg"><img src="images/full-sized/zip_disk.jpg" style="width:100px;" title="https://www.amazon.com/Iomega-Formatted-reformattable-Discontinued-Manufacturer/dp/B00004Z83E"></a></td>
     <td>Zip disk</td>
-    <td>ca. 2003; Video recording and data versions, sometimes referred to as XDCAM discs. DATA variant could hold up to 125GB</td>
-        <td><a href="https://www.nature.com/news/disks-back-from-the-dead-1.21916" target="_blank">Nature.com, "Disks back from the dead"</a>, <a href="https://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties" target="_blank">Canadian Centre for Architecture, "How to Access Digital Files from the Nineties"</a>, <a href="https://www.nyu.edu/tisch/preservation/program/student_work/2005fall/05f_1805_singer_a2.pdf" target="_blank">MIAP paper, Martha Singer, 2005</a></td>
-  </tr>
-  <tr>
-    <td><a href="images/full-sized/video-floppy.png"><img src="images/full-sized/video-floppy.png" style="width:100px;" title="http://www.obsoletemedia.org/2-inch-floppy-disk-video-floppy/"></a></td>
-    <td>Zip U250 disk</td>
     <td>ca. 1990s; 3.5", Considered a "superfloppy" technology due to its relatively high capacity of up to 750MB. Various drives employed various connections, including USB 1.1, 2.0, Firewire, SCSI, Parallel Port, and ATAPI</td>
-    <td><a href="https://www.nature.com/news/disks-back-from-the-dead-1.21916" target="_blank">Nature.com, "Disks back from the dead"</a>, <a href="https://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties" target="_blank">Canadian Centre for Architecture, "How to Access Digital Files from the Nineties"</a>, <a href="https://www.nyu.edu/tisch/preservation/program/student_work/2005fall/05f_1805_singer_a2.pdf" target="_blank">MIAP paper, Martha Singer, 2005</a></td>
+        <td><a href="https://www.nature.com/news/disks-back-from-the-dead-1.21916" target="_blank">Nature.com, "Disks back from the dead"</a>, <a href="https://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties" target="_blank">Canadian Centre for Architecture, "How to Access Digital Files from the Nineties"</a>, <a href="https://www.nyu.edu/tisch/preservation/program/student_work/2005fall/05f_1805_singer_a2.pdf" target="_blank">MIAP paper, Martha Singer, 2005</a></td>
   </tr>
 </table>
 
