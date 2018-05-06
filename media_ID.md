@@ -228,9 +228,9 @@ Before their absorption by Lenovo in 2013, Iomega was one of the most notable ma
     <td><a href="images/full-sized/usb_stick.png"><img src="images/full-sized/usb_stick.png" style="width:100px;" title="https://en.wikipedia.org/wiki/USB_flash_drive"></a></td>
     <td>USB sticks/thumb drives/portable flash drives</td>
     <td>ca. 2000s-present; USB connection, usually directly to a computer. Low risk, as these devices are still in use. Physical damage common.</td>
-        <td><a href="https://www.nedcc.org/preservation101/session-6/6inherent-vice-computer-media#flash" target="_blank">NEDCC</a></td>
+    <td><a href="https://www.nedcc.org/preservation101/session-6/6inherent-vice-computer-media#flash" target="_blank">NEDCC</a></td>
   </tr>
-</table>
+</table>  
 
 <a name="hardware"></a>
 ### Hardware, Cabling, and Adapters
