@@ -198,11 +198,11 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
 
 <a name="something-else"></a>
 ### Other Removable Media
-Android phones
-iPhones
-External hard drives
-Secure Digital (SD) Cards
-USB Sticks/Portable Flash Drives/Thumb drives
+Android phones  
+iPhones  
+External hard drives  
+Secure Digital (SD) Cards  
+USB Sticks/Portable Flash Drives/Thumb drives  
 
 <a name="hardware"></a>
 ### Hardware, Cabling, and Adapters
