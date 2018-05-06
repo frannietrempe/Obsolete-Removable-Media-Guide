@@ -24,7 +24,7 @@ Sampson, Walker and Chassanoff, Alexandra. <a href="https://fedora.phaidra.univi
 
 Woods, Kam and Lee, Christopher A. <a href="https://ils.unc.edu/callee/archiving-2012-woods-lee.pdf" target="_blank">"Acquisition and Processing of Disk Images to Further Archival Goal."</a>  
 
-##Emulation:
+### Emulation:
 
 Wiki: <a href="https://emaculation.com/" target="_blank">"E-Maculation: All About Macintosh Emulation"</a>
 
