@@ -50,7 +50,7 @@ If this is the case, you will need to make  educated guesses as to when the remo
   * <a href="https://en.wikipedia.org/wiki/System_7" target="_blank">System 7 / Mac OS 7.6</a> – released in 1991
   * <a href="https://en.wikipedia.org/wiki/Mac_OS_8" target="_blank">Mac OS 8</a> – released in 1997
   * <a href="https://en.wikipedia.org/wiki/Mac_OS_9" target="_blank">Mac OS 9</a> – released in 1999 (final major version)
-* **Mac OSX** (2000-2016) / **MacOS** (2016- current)**
+* **Mac OSX** (2000-2016) / **MacOS** (2016- current)
   * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_10.0" target="_blank">OS X 10.0 </a> Cheetah – released in 2001
   * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_10.1" target="_blank">OS X 10.1 </a> Puma - released in 2001
   * <a href="https://en.wikipedia.org/wiki/Mac_OS_X_10.2" target="_blank">OS X 10.2 </a> Jaguar - released in 2002
