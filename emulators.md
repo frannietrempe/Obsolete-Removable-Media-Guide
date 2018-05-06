@@ -71,13 +71,13 @@ Emulators are assembled  of several pieces, and different emulating applications
   * <a href="https://www.qemu.org/download/" target="_blank">QEMU</a>
   * <a href="https://sourceforge.net/projects/dosbox/" target ="_blank">DOSBox</a>  
   <br>
-* **Operating System Installer•• – this is an installation disk of the OS  you want to emulate (could be a physical object or a downloaded disk image)
- * <a href="https://winworldpc.com/library/operating-systemsWinWorld" target="_blank">WinWorld</a> – library of operating system disk images for download
-  * <a href="https://archive.org/details/cdromsoftware" target="_blank">Internet Archive CD-ROM Software Library</a> – includes many operating system disk images for download  
+* **Operating System Installer** – this is an installation disk of the OS  you want to emulate (could be a physical object or a downloaded disk image)
+  * <a href="https://winworldpc.com/library/operating-systemsWinWorld" target="_blank">WinWorld</a> – library of operating system disk images for download
+   * <a href="https://archive.org/details/cdromsoftware" target="_blank">Internet Archive CD-ROM Software Library</a> – includes many operating system disk images for download  
 <br>
-* **ROM File –**  this is an extractable or downloadable file that will mimic data contained in a read-only memory chip from a compatible piece of legacy hardware.
+* **ROM File** – this is an extractable or downloadable file that will mimic data contained in a read-only memory chip from a compatible piece of legacy hardware.
   * <a href="https://github.com/macmade/Macintosh-ROMs" target="_blank">Macintosh-ROMs</a> – collection of obsolete Macintosh ROM files.
-  *   <a href="hhttp://www.redundantrobot.com/sheepshaver.html" target="_blank">Redunant Robot</a> – Mac ROMs to use with SheepShaver and Basillisk II
+  * <a href="hhttp://www.redundantrobot.com/sheepshaver.html" target="_blank">Redunant Robot</a> – Mac ROMs to use with SheepShaver and Basillisk II
   * <a href="https://archive.org/details/mac_rom_archive_-_as_of_8-19-2011" target="_blank">Internet Archive Mac ROM Archive</a> – collection of obsolete Mac ROM files
   * [Not sure if PC emulators require a ROM in the same way]
 
