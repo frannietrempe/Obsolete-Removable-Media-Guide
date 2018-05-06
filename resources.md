@@ -12,6 +12,8 @@ Media Archaelogy Lab. <a href="http://www.obsoletemedia.org/" target="_blank">"M
 
 Gates, Ethan. <a href="https://amiaopensource.github.io/cable-bible/" target="_blank">"The Cable Bible"</a>  
 
+Google Document: <a href="goo.gl/ZZxxAJ" target="_blank">"The Archivist’s Guide to KryoFlux"</a> 
+
 <a name="Disk-Imaging"></a>
 ### Disk Imaging:
 Charlton, Elizabeth. <a href="https://practicaltechnologyforarchives.org/issue6_charlton/" target="_blank">"Working with legacy media: A lone arranger's first steps"</a>  
