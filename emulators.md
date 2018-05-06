@@ -37,10 +37,10 @@ There are different emulating applications for different operating systems/hardw
       * BeOS R4/R5 (PowerPC)
       * AmigaOS 3.x
   * <a href="http://www.gryphel.com/c/minivmac/index.html" target ="_blank">Mini vMac</a> variations for
-<a href="https://en.wikipedia.org/wiki/Macintosh_128K" target =_blank>Mac 128K</a>,
-<a href="https://en.wikipedia.org/wiki/Macintosh_512K" target =_blank>Mac 512K</a>,
-<a href="https://en.wikipedia.org/wiki/Macintosh_512Ke" target =_blank>Mac 512Ke</a>,
-<a href="https://en.wikipedia.org/wiki/Macintosh_Plus" target =_blank>Mac Plus</a>,
+<a href="https://en.wikipedia.org/wiki/Macintosh_128K" target=_blank>Mac 128K</a>,
+<a href="https://en.wikipedia.org/wiki/Macintosh_512K" target=_blank>Mac 512K</a>,
+<a href="https://en.wikipedia.org/wiki/Macintosh_512Ke" target=_blank>Mac 512Ke</a>,
+<a href="https://en.wikipedia.org/wiki/Macintosh_Plus" target=_blank>Mac Plus</a>,
 <a href="https://en.wikipedia.org/wiki/Macintosh_SE" target="_blank">Mac SE</a>,
 <a href="https://en.wikipedia.org/wiki/Macintosh_Classic" target="_blank">Mac Classic</a>,
 <a href="https://en.wikipedia.org/wiki/Macintosh_II_family" target="_blank">Mac II</a>
