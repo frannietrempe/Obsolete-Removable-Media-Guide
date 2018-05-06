@@ -153,7 +153,7 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
     <td><a href="https://en.wikipedia.org/wiki/Bernoulli_Box" target="_blank">Wikipedia</a></td>
   </tr>
   <tr>
-    <td><a href="images/full-sized/jaz.jpg"><img src="images/full-sized/jaz.jpg" style="width:100px;" title="http://www.techspressive.com/page/34/"></a></td>
+    <td><a href="images/full-sized/DataPlay.jpg"><img src="images/full-sized/DataPlay.jpg" style="width:100px;" title="http://www.techspressive.com/page/34/"></a></td>
     <td>DataPlay disc</td>
     <td>ca. early 2000s; small optical disc enclosed in plastic cartridge. Very little archival documentation; largely unsuccessful format</td>
     <td><a href="https://en.wikipedia.org/wiki/DataPlay" target="_blank">Wikipedia</a></td>
@@ -171,10 +171,10 @@ Refers to a variety of removable magnetic storage formats encased in a plastic d
     <td><a href="https://youtu.be/-MNxvd_2jkE" target="_blank">Promo video for Clik!</a>, <a href="https://en.wikipedia.org/wiki/PocketZip" target="_blank">Wikipedia</a></td>
   </tr>
   <tr>
-    <td><a href="images/full-sized/video-floppy.png"><img src="images/full-sized/video-floppy.png" style="width:100px;" title="http://www.obsoletemedia.org/2-inch-floppy-disk-video-floppy/"></a></td>
+    <td><a href="images/full-sized/rev_disk.jpg"><img src="images/full-sized/rev_disk.jpg" style="width:100px;" title="https://www.amazon.com/Iomega-Disk-Pack-Discontinued-Manufacturer/dp/B0001YH7RO"></a></td>
     <td>REV disk</td>
-    <td>ca. 2003; Video recording and data versions, sometimes referred to as XDCAM discs. DATA variant could hold up to 125GB</td>
-    <td><a href="https://www.nyu.edu/tisch/preservation/program/student_work/2010spring/JonahVolk_Thesis_20110908.pdf" target="_blank">MIAP thesis, John Volk, 2010</a> (addresses issues of file-based digital video, including references to XDCAM)</td>
+    <td>ca. early 2000s; Iomega high-capacity disk drive. High failure rates and little archival documentation.</td>
+    <td><a href="https://web.library.yale.edu/sites/default/files/files/Yale_Inventory_Final_Report_20151021.pdf" target="_blank">AV Preserve Yale collection inventory</a> (in which REV disks are briefly mentioned)</td>
   </tr>
   <tr>
     <td><a href="images/full-sized/video-floppy.png"><img src="images/full-sized/video-floppy.png" style="width:100px;" title="http://www.obsoletemedia.org/2-inch-floppy-disk-video-floppy/"></a></td>
