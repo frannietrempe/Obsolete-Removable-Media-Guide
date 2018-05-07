@@ -1,7 +1,7 @@
 ### Obsolete Removable Media Guide
 This guide is intended for any person or institution with a collection of obsolete removable media—including optical disks, various cartridges or floppies, or external hard disk or flash storage.
 
-[View the guide here](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/)
+[View the guide here](https://frannietrempe.github.io/Obsolete-Removable-Media-Guide/).
 
 ### Credits and License
 This resource was created by Becca Bender and Frannie Trempe in 2018 as a part of the Handling Complex Media class in New York University's Moving Image Archiving and Preservation Program.
